@@ -1,0 +1,157 @@
+
+  {
+    "winner_id": 1549,
+    "winner": {
+      "slug": "san-francisco-shock",
+      "name": "San Francisco Shock",
+      "image_url": "https://cdn.pandascore.co/images/team/image/1549/0SY7LHKHV86R1507822883113.svg",
+      "id": 1549,
+      "acronym": "SFS"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "ow",
+      "name": "Overwatch",
+      "id": 14
+    },
+    "tournament_id": 1998,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "overwatch-league-2019-stage-ii",
+      "serie_id": 1670,
+      "name": "Stage 2",
+      "modified_at": "2019-04-14T02:08:17Z",
+      "league_id": 4135,
+      "id": 1998,
+      "end_at": "2019-05-06T01:00:00Z",
+      "begin_at": "2019-04-04T23:00:00Z"
+    },
+    "status": "finished",
+    "slug": "toronto-defiant-vs-san-francisco-shock-2019-04-19",
+    "serie_id": 1670,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "overwatch-league-2019",
+      "season": "2",
+      "prizepool": null,
+      "name": "",
+      "modified_at": "2019-02-15T13:49:40Z",
+      "league_id": 4135,
+      "id": 1670,
+      "full_name": "Season 2 2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2017-12-07T00:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 1549,
+        "score": 4
+      },
+      {
+        "team_id": 3434,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "toronto-defiant",
+          "name": "Toronto Defiant",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3434/VCXAU8C5WLJT1542674151813.svg",
+          "id": 3434,
+          "acronym": "TOR"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "san-francisco-shock",
+          "name": "San Francisco Shock",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1549/0SY7LHKHV86R1507822883113.svg",
+          "id": 1549,
+          "acronym": "SFS"
+        }
+      }
+    ],
+    "number_of_games": 5,
+    "name": "SFS vs TOR",
+    "modified_at": "2019-04-19T01:51:41Z",
+    "match_type": "ow_best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/384168",
+      "supported": true,
+      "opens_at": "2019-04-18T23:45:00Z"
+    },
+    "league_id": 4135,
+    "league": {
+      "url": "https://overwatchleague.com/en-us/",
+      "slug": "overwatch-league",
+      "name": "Overwatch League",
+      "modified_at": "2019-03-05T16:03:09Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4135/esports-overwatch-36d8f7f486d363c1.png",
+      "id": 4135
+    },
+    "id": 384168,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1549
+        },
+        "position": 1,
+        "match_id": 384168,
+        "length": 388,
+        "id": 3857,
+        "finished": true,
+        "begin_at": "2019-04-19T00:45:00Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1549
+        },
+        "position": 2,
+        "match_id": 384168,
+        "length": 864,
+        "id": 3858,
+        "finished": true,
+        "begin_at": "2019-04-19T00:52:30Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1549
+        },
+        "position": 3,
+        "match_id": 384168,
+        "length": 838,
+        "id": 3859,
+        "finished": true,
+        "begin_at": "2019-04-19T01:22:38Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1549
+        },
+        "position": 4,
+        "match_id": 384168,
+        "length": 622,
+        "id": 3860,
+        "finished": true,
+        "begin_at": "2019-04-19T01:40:44Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T00:45:00Z"
+  }

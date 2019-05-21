@@ -1,0 +1,5361 @@
+{
+"maps": [
+  {
+    "winner_id": 1549,
+    "winner": {
+      "slug": "san-francisco-shock",
+      "name": "San Francisco Shock",
+      "image_url": "https://cdn.pandascore.co/images/team/image/1549/0SY7LHKHV86R1507822883113.svg",
+      "id": 1549,
+      "acronym": "SFS"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "ow",
+      "name": "Overwatch",
+      "id": 14
+    },
+    "tournament_id": 1998,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "overwatch-league-2019-stage-ii",
+      "serie_id": 1670,
+      "name": "Stage 2",
+      "modified_at": "2019-04-14T02:08:17Z",
+      "league_id": 4135,
+      "id": 1998,
+      "end_at": "2019-05-06T01:00:00Z",
+      "begin_at": "2019-04-04T23:00:00Z"
+    },
+    "status": "finished",
+    "slug": "toronto-defiant-vs-san-francisco-shock-2019-04-19",
+    "serie_id": 1670,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "overwatch-league-2019",
+      "season": "2",
+      "prizepool": null,
+      "name": "",
+      "modified_at": "2019-02-15T13:49:40Z",
+      "league_id": 4135,
+      "id": 1670,
+      "full_name": "Season 2 2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2017-12-07T00:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 1549,
+        "score": 4
+      },
+      {
+        "team_id": 3434,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "toronto-defiant",
+          "name": "Toronto Defiant",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3434/VCXAU8C5WLJT1542674151813.svg",
+          "id": 3434,
+          "acronym": "TOR"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "san-francisco-shock",
+          "name": "San Francisco Shock",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1549/0SY7LHKHV86R1507822883113.svg",
+          "id": 1549,
+          "acronym": "SFS"
+        }
+      }
+    ],
+    "number_of_games": 5,
+    "name": "SFS vs TOR",
+    "modified_at": "2019-04-19T01:51:41Z",
+    "match_type": "ow_best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/384168",
+      "supported": true,
+      "opens_at": "2019-04-18T23:45:00Z"
+    },
+    "league_id": 4135,
+    "league": {
+      "url": "https://overwatchleague.com/en-us/",
+      "slug": "overwatch-league",
+      "name": "Overwatch League",
+      "modified_at": "2019-03-05T16:03:09Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4135/esports-overwatch-36d8f7f486d363c1.png",
+      "id": 4135
+    },
+    "id": 384168,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1549
+        },
+        "position": 1,
+        "match_id": 384168,
+        "length": 388,
+        "id": 3857,
+        "finished": true,
+        "begin_at": "2019-04-19T00:45:00Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1549
+        },
+        "position": 2,
+        "match_id": 384168,
+        "length": 864,
+        "id": 3858,
+        "finished": true,
+        "begin_at": "2019-04-19T00:52:30Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1549
+        },
+        "position": 3,
+        "match_id": 384168,
+        "length": 838,
+        "id": 3859,
+        "finished": true,
+        "begin_at": "2019-04-19T01:22:38Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1549
+        },
+        "position": 4,
+        "match_id": 384168,
+        "length": 622,
+        "id": 3860,
+        "finished": true,
+        "begin_at": "2019-04-19T01:40:44Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T00:45:00Z"
+  },
+  {
+    "winner_id": 3213,
+    "winner": {
+      "slug": "liquid-cs-go",
+      "name": "Liquid",
+      "image_url": "https://cdn.pandascore.co/images/team/image/3213/LIQUID.png",
+      "id": 3213,
+      "acronym": null
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "tournament_id": 2244,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-americas-2019-group-b",
+      "serie_id": 1736,
+      "name": "Round 1: group b",
+      "modified_at": "2019-04-12T07:50:31Z",
+      "league_id": 4158,
+      "id": 2244,
+      "end_at": "2019-04-12T10:00:00Z",
+      "begin_at": "2019-04-17T00:20:00Z"
+    },
+    "status": "finished",
+    "slug": "liquid-vs-ghost-2019-04-19",
+    "serie_id": 1736,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-americas-2019",
+      "season": "9",
+      "prizepool": null,
+      "name": "Pro League Americas",
+      "modified_at": "2019-04-06T14:00:02Z",
+      "league_id": 4158,
+      "id": 1736,
+      "full_name": "Pro league americas season 9 2019",
+      "end_at": "2019-04-12T10:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-12T10:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 3213,
+        "score": 2
+      },
+      {
+        "team_id": 3386,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "liquid-cs-go",
+          "name": "Liquid",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3213/LIQUID.png",
+          "id": 3213,
+          "acronym": null
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ghost",
+          "name": "Ghost",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3386/GHOST.png",
+          "id": 3386,
+          "acronym": null
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "Liquid vs Ghost",
+    "modified_at": "2019-04-19T02:15:26Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543395",
+      "supported": true,
+      "opens_at": "2019-04-19T00:06:12Z"
+    },
+    "league_id": 4158,
+    "league": {
+      "url": null,
+      "slug": "cs-go-esl",
+      "name": "ESL",
+      "modified_at": "2019-02-25T17:17:32Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4158/800px-Esl_logo.png",
+      "id": 4158
+    },
+    "id": 543395,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3213
+        },
+        "position": 1,
+        "match_id": 543395,
+        "length": null,
+        "id": 6211,
+        "finished": true,
+        "begin_at": null
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3213
+        },
+        "position": 2,
+        "match_id": 543395,
+        "length": null,
+        "id": 6212,
+        "finished": true,
+        "begin_at": "2019-04-19T01:06:12Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T01:06:12Z"
+  },
+  {
+    "winner_id": 1551,
+    "winner": {
+      "slug": "los-angeles-gladiators",
+      "name": "Los Angeles Gladiators",
+      "image_url": "https://cdn.pandascore.co/images/team/image/1551/CHTRRZCBEYGN1507822882862.svg",
+      "id": 1551,
+      "acronym": "GLA"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "ow",
+      "name": "Overwatch",
+      "id": 14
+    },
+    "tournament_id": 1998,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "overwatch-league-2019-stage-ii",
+      "serie_id": 1670,
+      "name": "Stage 2",
+      "modified_at": "2019-04-14T02:08:17Z",
+      "league_id": 4135,
+      "id": 1998,
+      "end_at": "2019-05-06T01:00:00Z",
+      "begin_at": "2019-04-04T23:00:00Z"
+    },
+    "status": "finished",
+    "slug": "los-angeles-gladiators-vs-florida-mayhem-2019-04-19",
+    "serie_id": 1670,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "overwatch-league-2019",
+      "season": "2",
+      "prizepool": null,
+      "name": "",
+      "modified_at": "2019-02-15T13:49:40Z",
+      "league_id": 4135,
+      "id": 1670,
+      "full_name": "Season 2 2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2017-12-07T00:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 1551,
+        "score": 3
+      },
+      {
+        "team_id": 1552,
+        "score": 1
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "los-angeles-gladiators",
+          "name": "Los Angeles Gladiators",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1551/CHTRRZCBEYGN1507822882862.svg",
+          "id": 1551,
+          "acronym": "GLA"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "florida-mayhem",
+          "name": "Florida Mayhem",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1552/M1KNTZW8SGHZ1507822883041.svg",
+          "id": 1552,
+          "acronym": "FLA"
+        }
+      }
+    ],
+    "number_of_games": 5,
+    "name": "FLA vs GLA",
+    "modified_at": "2019-04-19T03:31:22Z",
+    "match_type": "ow_best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/384169",
+      "supported": true,
+      "opens_at": "2019-04-19T01:22:03Z"
+    },
+    "league_id": 4135,
+    "league": {
+      "url": "https://overwatchleague.com/en-us/",
+      "slug": "overwatch-league",
+      "name": "Overwatch League",
+      "modified_at": "2019-03-05T16:03:09Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4135/esports-overwatch-36d8f7f486d363c1.png",
+      "id": 4135
+    },
+    "id": 384169,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1552
+        },
+        "position": 1,
+        "match_id": 384169,
+        "length": 644,
+        "id": 3861,
+        "finished": true,
+        "begin_at": "2019-04-19T02:30:00Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1551
+        },
+        "position": 2,
+        "match_id": 384169,
+        "length": 900,
+        "id": 3862,
+        "finished": true,
+        "begin_at": "2019-04-19T02:22:03Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1551
+        },
+        "position": 3,
+        "match_id": 384169,
+        "length": 1062,
+        "id": 3863,
+        "finished": true,
+        "begin_at": "2019-04-19T02:53:17Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1551
+        },
+        "position": 4,
+        "match_id": 384169,
+        "length": 944,
+        "id": 3864,
+        "finished": true,
+        "begin_at": "2019-04-19T03:15:08Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T02:22:03Z"
+  },
+  {
+    "winner_id": 3439,
+    "winner": {
+      "slug": "vancouver",
+      "name": "Vancouver Titans",
+      "image_url": "https://cdn.pandascore.co/images/team/image/3439/0KOSPFU6UC411543976755522.svg",
+      "id": 3439,
+      "acronym": "VAN"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "ow",
+      "name": "Overwatch",
+      "id": 14
+    },
+    "tournament_id": 1998,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "overwatch-league-2019-stage-ii",
+      "serie_id": 1670,
+      "name": "Stage 2",
+      "modified_at": "2019-04-14T02:08:17Z",
+      "league_id": 4135,
+      "id": 1998,
+      "end_at": "2019-05-06T01:00:00Z",
+      "begin_at": "2019-04-04T23:00:00Z"
+    },
+    "status": "finished",
+    "slug": "dallas-fuel-vs-vancouver-titans-2019-04-19",
+    "serie_id": 1670,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "overwatch-league-2019",
+      "season": "2",
+      "prizepool": null,
+      "name": "",
+      "modified_at": "2019-02-15T13:49:40Z",
+      "league_id": 4135,
+      "id": 1670,
+      "full_name": "Season 2 2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2017-12-07T00:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 3439,
+        "score": 4
+      },
+      {
+        "team_id": 1544,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "dallas-fuel",
+          "name": "Dallas Fuel",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1544/YX6JZ6FR89LU1507822882865.svg",
+          "id": 1544,
+          "acronym": "DAL"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "vancouver",
+          "name": "Vancouver Titans",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3439/0KOSPFU6UC411543976755522.svg",
+          "id": 3439,
+          "acronym": "VAN"
+        }
+      }
+    ],
+    "number_of_games": 5,
+    "name": "VAN vs DAL",
+    "modified_at": "2019-04-19T05:10:05Z",
+    "match_type": "ow_best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/384170",
+      "supported": true,
+      "opens_at": "2019-04-19T02:58:31Z"
+    },
+    "league_id": 4135,
+    "league": {
+      "url": "https://overwatchleague.com/en-us/",
+      "slug": "overwatch-league",
+      "name": "Overwatch League",
+      "modified_at": "2019-03-05T16:03:09Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4135/esports-overwatch-36d8f7f486d363c1.png",
+      "id": 4135
+    },
+    "id": 384170,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3439
+        },
+        "position": 1,
+        "match_id": 384170,
+        "length": 446,
+        "id": 3865,
+        "finished": true,
+        "begin_at": "2019-04-19T04:15:00Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3439
+        },
+        "position": 2,
+        "match_id": 384170,
+        "length": 786,
+        "id": 3866,
+        "finished": true,
+        "begin_at": "2019-04-19T03:58:31Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3439
+        },
+        "position": 3,
+        "match_id": 384170,
+        "length": 1086,
+        "id": 3867,
+        "finished": true,
+        "begin_at": "2019-04-19T04:23:48Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3439
+        },
+        "position": 4,
+        "match_id": 384170,
+        "length": 1028,
+        "id": 3868,
+        "finished": true,
+        "begin_at": "2019-04-19T04:51:21Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T03:58:31Z"
+  },
+  {
+    "winner_id": 3310,
+    "winner": {
+      "slug": "complexity",
+      "name": "compLexity",
+      "image_url": "https://cdn.pandascore.co/images/team/image/3310/COMPLEXITY.png",
+      "id": 3310,
+      "acronym": null
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "tournament_id": 2244,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-americas-2019-group-b",
+      "serie_id": 1736,
+      "name": "Round 1: group b",
+      "modified_at": "2019-04-12T07:50:31Z",
+      "league_id": 4158,
+      "id": 2244,
+      "end_at": "2019-04-12T10:00:00Z",
+      "begin_at": "2019-04-17T00:20:00Z"
+    },
+    "status": "finished",
+    "slug": "complexity-vs-lazarus-2019-04-19",
+    "serie_id": 1736,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-americas-2019",
+      "season": "9",
+      "prizepool": null,
+      "name": "Pro League Americas",
+      "modified_at": "2019-04-06T14:00:02Z",
+      "league_id": 4158,
+      "id": 1736,
+      "full_name": "Pro league americas season 9 2019",
+      "end_at": "2019-04-12T10:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-12T10:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 3310,
+        "score": 2
+      },
+      {
+        "team_id": 125860,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "complexity",
+          "name": "compLexity",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3310/COMPLEXITY.png",
+          "id": 3310,
+          "acronym": null
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "lazarus-f85acf76-5b8a-4ff5-be72-d9abd20c5f08",
+          "name": "Lazarus",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125860/9945.png",
+          "id": 125860,
+          "acronym": null
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "compLexity vs Lazarus",
+    "modified_at": "2019-04-19T06:30:04Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543396",
+      "supported": true,
+      "opens_at": "2019-04-19T03:05:00Z"
+    },
+    "league_id": 4158,
+    "league": {
+      "url": null,
+      "slug": "cs-go-esl",
+      "name": "ESL",
+      "modified_at": "2019-02-25T17:17:32Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4158/800px-Esl_logo.png",
+      "id": 4158
+    },
+    "id": 543396,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3310
+        },
+        "position": 1,
+        "match_id": 543396,
+        "length": null,
+        "id": 6214,
+        "finished": true,
+        "begin_at": null
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3310
+        },
+        "position": 2,
+        "match_id": 543396,
+        "length": null,
+        "id": 6215,
+        "finished": true,
+        "begin_at": "2019-04-19T05:16:40Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T04:05:00Z"
+  },
+  {
+    "winner_id": 1662,
+    "winner": {
+      "slug": "invictus-gaming-dota-2",
+      "name": "Invictus Gaming",
+      "image_url": "https://cdn.pandascore.co/images/team/image/1662/Invictus_Gaming.png",
+      "id": 1662,
+      "acronym": "iG"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "tournament_id": 2273,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": 1662,
+      "slug": "dota-2-betway-asian-dota-2-league-1-2019-playoffs",
+      "serie_id": 1764,
+      "name": "Playoffs",
+      "modified_at": "2019-04-19T10:50:51Z",
+      "league_id": 4216,
+      "id": 2273,
+      "end_at": "2019-04-21T18:00:00Z",
+      "begin_at": "2019-04-06T22:00:00Z"
+    },
+    "status": "finished",
+    "slug": "2019-04-20-043f143f-a818-451a-9b35-11565689b876",
+    "serie_id": 1764,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "dota-2-betway-asian-dota-2-league-1-2019",
+      "season": "1",
+      "prizepool": null,
+      "name": null,
+      "modified_at": "2019-03-26T10:33:31Z",
+      "league_id": 4216,
+      "id": 1764,
+      "full_name": "Season 1 2019",
+      "end_at": "2019-04-19T22:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-03T22:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 1662,
+        "score": 3
+      },
+      {
+        "team_id": 1725,
+        "score": 1
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "invictus-gaming-dota-2",
+          "name": "Invictus Gaming",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1662/Invictus_Gaming.png",
+          "id": 1662,
+          "acronym": "iG"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "newbee-young",
+          "name": "Newbee.Young",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1725/Newbee_Young.png",
+          "id": 1725,
+          "acronym": "NBY"
+        }
+      }
+    ],
+    "number_of_games": 5,
+    "name": "Final",
+    "modified_at": "2019-04-19T10:50:13Z",
+    "match_type": "best_of",
+    "live": {
+      "url": null,
+      "supported": false,
+      "opens_at": null
+    },
+    "league_id": 4216,
+    "league": {
+      "url": null,
+      "slug": "dota-2-betway-asian-dota-2-league",
+      "name": "Betway Asian Dota 2 League",
+      "modified_at": "2019-03-26T10:33:36Z",
+      "live_supported": false,
+      "image_url": null,
+      "id": 4216
+    },
+    "id": 543586,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1662
+        },
+        "position": 1,
+        "match_id": 543586,
+        "length": null,
+        "id": 651017,
+        "finished": true,
+        "begin_at": null
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1725
+        },
+        "position": 2,
+        "match_id": 543586,
+        "length": 1640,
+        "id": 651018,
+        "finished": true,
+        "begin_at": "2019-04-19T05:01:30Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1662
+        },
+        "position": 3,
+        "match_id": 543586,
+        "length": 4619,
+        "id": 651019,
+        "finished": true,
+        "begin_at": "2019-04-19T05:53:12Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1662
+        },
+        "position": 4,
+        "match_id": 543586,
+        "length": 1283,
+        "id": 651757,
+        "finished": true,
+        "begin_at": "2019-04-19T07:36:48Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T05:01:30Z"
+  },
+  {
+    "winner_id": 1655,
+    "winner": {
+      "slug": "tnc-pro-team",
+      "name": "TNC Predator",
+      "image_url": "https://cdn.pandascore.co/images/team/image/1655/Tncproteam.png",
+      "id": 1655,
+      "acronym": "TNC"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "tournament_id": 2287,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "esl-one-mumbai-2019-playoffs",
+      "serie_id": 1754,
+      "name": "Playoffs",
+      "modified_at": "2019-04-15T14:29:09Z",
+      "league_id": 4114,
+      "id": 2287,
+      "end_at": "2019-04-22T18:00:00Z",
+      "begin_at": "2019-04-15T22:00:00Z"
+    },
+    "status": "finished",
+    "slug": "2019-04-19-3a0ed12f-b569-4715-8330-5cde79587aaf",
+    "serie_id": 1754,
+    "serie": {
+      "year": 2019,
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "esl-one-mumbai-2019",
+      "season": null,
+      "prizepool": null,
+      "name": "Mumbai",
+      "modified_at": "2019-02-28T00:14:00Z",
+      "league_id": 4114,
+      "id": 1754,
+      "full_name": "Mumbai 2019",
+      "end_at": "2019-04-20T22:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-18T23:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 1655,
+        "score": 2
+      },
+      {
+        "team_id": 3397,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "tnc-pro-team",
+          "name": "TNC Predator",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1655/Tncproteam.png",
+          "id": 1655,
+          "acronym": "TNC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "signify",
+          "name": "Signify",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3397/Signify_logo.png",
+          "id": 3397,
+          "acronym": "Signify"
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "Lower Round 1",
+    "modified_at": "2019-04-19T08:24:01Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543697",
+      "supported": true,
+      "opens_at": "2019-04-19T05:17:52Z"
+    },
+    "league_id": 4114,
+    "league": {
+      "url": null,
+      "slug": "esl-one",
+      "name": "ESL One",
+      "modified_at": "2019-03-03T17:08:01Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4114/esl-one_logo.png",
+      "id": 4114
+    },
+    "id": 543697,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1655
+        },
+        "position": 1,
+        "match_id": 543697,
+        "length": 1950,
+        "id": 651266,
+        "finished": true,
+        "begin_at": "2019-04-19T06:17:52Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1655
+        },
+        "position": 2,
+        "match_id": 543697,
+        "length": 2482,
+        "id": 651267,
+        "finished": true,
+        "begin_at": "2019-04-19T07:26:55Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T06:17:52Z"
+  },
+  {
+    "winner_id": 2888,
+    "winner": {
+      "slug": "es-sharks",
+      "name": "ES Sharks",
+      "image_url": "https://cdn.pandascore.co/images/team/image/2888/_.png",
+      "id": 2888,
+      "acronym": "ESS"
+    },
+    "videogame_version": {
+      "name": "9.6.1",
+      "current": false
+    },
+    "videogame": {
+      "slug": "league-of-legends",
+      "name": "LoL",
+      "id": 1
+    },
+    "tournament_id": 2278,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "league-of-legends-lck-champions-korea-summer-2019-promotion",
+      "serie_id": 1775,
+      "name": "Promotion",
+      "modified_at": "2019-04-15T14:12:58Z",
+      "league_id": 293,
+      "id": 2278,
+      "end_at": "2019-04-21T18:00:00Z",
+      "begin_at": "2019-04-16T07:00:00Z"
+    },
+    "status": "finished",
+    "slug": "vsg-vs-es-sharks-2019-04-19",
+    "serie_id": 1775,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "league-of-legends-lck-champions-korea-summer-2019",
+      "season": "Summer",
+      "prizepool": null,
+      "name": null,
+      "modified_at": "2019-04-10T16:11:35Z",
+      "league_id": 293,
+      "id": 1775,
+      "full_name": "Summer 2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2019-04-16T07:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 2888,
+        "score": 3
+      },
+      {
+        "team_id": 125506,
+        "score": 2
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "vsg",
+          "name": "VSG",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125506/VSG__Korean_Team_logo_square.png",
+          "id": 125506,
+          "acronym": "VSG"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "es-sharks",
+          "name": "ES Sharks",
+          "image_url": "https://cdn.pandascore.co/images/team/image/2888/_.png",
+          "id": 2888,
+          "acronym": "ESS"
+        }
+      }
+    ],
+    "number_of_games": 5,
+    "name": "Elimination Match: VSG vs ESS",
+    "modified_at": "2019-04-19T12:41:41Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543639",
+      "supported": true,
+      "opens_at": "2019-04-19T07:01:34Z"
+    },
+    "league_id": 293,
+    "league": {
+      "url": null,
+      "slug": "league-of-legends-lck-champions-korea",
+      "name": "LCK",
+      "modified_at": "2019-03-03T14:47:32Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/293/LCK_2018_logo.png",
+      "id": 293
+    },
+    "id": 543639,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 125506
+        },
+        "position": 1,
+        "match_id": 543639,
+        "length": 2105,
+        "id": 205646,
+        "finished": true,
+        "begin_at": "2019-04-19T08:01:34Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 2888
+        },
+        "position": 2,
+        "match_id": 543639,
+        "length": 1654,
+        "id": 205647,
+        "finished": true,
+        "begin_at": "2019-04-19T08:54:35Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 2888
+        },
+        "position": 3,
+        "match_id": 543639,
+        "length": 2759,
+        "id": 205648,
+        "finished": true,
+        "begin_at": "2019-04-19T09:43:35Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 125506
+        },
+        "position": 4,
+        "match_id": 543639,
+        "length": 2066,
+        "id": 205649,
+        "finished": true,
+        "begin_at": "2019-04-19T10:43:33Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 2888
+        },
+        "position": 5,
+        "match_id": 543639,
+        "length": 2718,
+        "id": 205650,
+        "finished": true,
+        "begin_at": "2019-04-19T11:32:07Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T08:01:34Z"
+  },
+  {
+    "winner_id": 13525,
+    "winner": {
+      "slug": "nopangolier",
+      "name": "The Pango",
+      "image_url": "https://cdn.pandascore.co/images/team/image/13525/600px-The_Pango_logo.png",
+      "id": 13525,
+      "acronym": "Pango"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "tournament_id": 2287,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "esl-one-mumbai-2019-playoffs",
+      "serie_id": 1754,
+      "name": "Playoffs",
+      "modified_at": "2019-04-15T14:29:09Z",
+      "league_id": 4114,
+      "id": 2287,
+      "end_at": "2019-04-22T18:00:00Z",
+      "begin_at": "2019-04-15T22:00:00Z"
+    },
+    "status": "finished",
+    "slug": "2019-04-19-d62bd3b7-96d5-4a74-a2c8-303f816576fd",
+    "serie_id": 1754,
+    "serie": {
+      "year": 2019,
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "esl-one-mumbai-2019",
+      "season": null,
+      "prizepool": null,
+      "name": "Mumbai",
+      "modified_at": "2019-02-28T00:14:00Z",
+      "league_id": 4114,
+      "id": 1754,
+      "full_name": "Mumbai 2019",
+      "end_at": "2019-04-20T22:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-18T23:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 13525,
+        "score": 2
+      },
+      {
+        "team_id": 1681,
+        "score": 1
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "complexity-gaming",
+          "name": "compLexity Gaming",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1681/CompLexity_Gaming.png",
+          "id": 1681,
+          "acronym": "coL"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "nopangolier",
+          "name": "The Pango",
+          "image_url": "https://cdn.pandascore.co/images/team/image/13525/600px-The_Pango_logo.png",
+          "id": 13525,
+          "acronym": "Pango"
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "Lower Round 1",
+    "modified_at": "2019-04-19T12:16:48Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543699",
+      "supported": true,
+      "opens_at": "2019-04-19T08:14:32Z"
+    },
+    "league_id": 4114,
+    "league": {
+      "url": null,
+      "slug": "esl-one",
+      "name": "ESL One",
+      "modified_at": "2019-03-03T17:08:01Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4114/esl-one_logo.png",
+      "id": 4114
+    },
+    "id": 543699,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1681
+        },
+        "position": 1,
+        "match_id": 543699,
+        "length": 2762,
+        "id": 651272,
+        "finished": true,
+        "begin_at": "2019-04-19T09:14:32Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 13525
+        },
+        "position": 2,
+        "match_id": 543699,
+        "length": 1660,
+        "id": 651273,
+        "finished": true,
+        "begin_at": "2019-04-19T10:36:04Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 13525
+        },
+        "position": 3,
+        "match_id": 543699,
+        "length": 1257,
+        "id": 651274,
+        "finished": true,
+        "begin_at": "2019-04-19T11:39:29Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T09:14:32Z"
+  },
+  {
+    "winner_id": 125537,
+    "winner": {
+      "slug": "team-envy-pubg",
+      "name": "Team Envy",
+      "image_url": "https://cdn.pandascore.co/images/team/image/125537/teamenvy-small.png",
+      "id": 125537,
+      "acronym": "NV"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "pubg",
+      "name": "PUBG",
+      "id": 20
+    },
+    "tournament_id": 2310,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019-elimination-stage",
+      "serie_id": 1777,
+      "name": "Elimination stage",
+      "modified_at": "2019-04-19T17:04:04Z",
+      "league_id": 4223,
+      "id": 2310,
+      "end_at": "2019-04-19T17:02:00Z",
+      "begin_at": "2019-04-19T11:15:00Z"
+    },
+    "status": "finished",
+    "slug": "2019-04-19-5f042fb0-8985-4992-9a0b-af75de56c84e",
+    "serie_id": 1777,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019",
+      "season": null,
+      "prizepool": "400000 USD",
+      "name": null,
+      "modified_at": "2019-04-15T14:40:20Z",
+      "league_id": 4223,
+      "id": 1777,
+      "full_name": "2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2019-04-16T11:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 125537,
+        "score": 1
+      },
+      {
+        "team_id": 125924,
+        "score": 0
+      },
+      {
+        "team_id": 125923,
+        "score": 0
+      },
+      {
+        "team_id": 125922,
+        "score": 0
+      },
+      {
+        "team_id": 125921,
+        "score": 0
+      },
+      {
+        "team_id": 125920,
+        "score": 0
+      },
+      {
+        "team_id": 125918,
+        "score": 0
+      },
+      {
+        "team_id": 125917,
+        "score": 0
+      },
+      {
+        "team_id": 125916,
+        "score": 0
+      },
+      {
+        "team_id": 125727,
+        "score": 0
+      },
+      {
+        "team_id": 125721,
+        "score": 0
+      },
+      {
+        "team_id": 125706,
+        "score": 0
+      },
+      {
+        "team_id": 125704,
+        "score": 0
+      },
+      {
+        "team_id": 125539,
+        "score": 0
+      },
+      {
+        "team_id": 3196,
+        "score": 0
+      },
+      {
+        "team_id": 3191,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "17-gaming",
+          "name": "17 Gaming",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125916/17_Gaming.png",
+          "id": 125916,
+          "acronym": "17"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-one",
+          "name": "Aerowolf Team One",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125918/Aerowolf_fixed.png",
+          "id": 125918,
+          "acronym": "AW1"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-seven",
+          "name": "Aerowolf Team Seven",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125920/Aerowolf_fixed.png",
+          "id": 125920,
+          "acronym": "AW7"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ahq-e-sports-club-pubg",
+          "name": "ahq e-Sports Club",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3191/600px-Ahq_logo.png",
+          "id": 3191,
+          "acronym": "AHQ"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "blue-bees-esp",
+          "name": "BLUE BEES.ESP",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125921/600px-Blue_Bees_2019.png",
+          "id": 125921,
+          "acronym": "BB"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "brazilian-crusaders-e-sports",
+          "name": "Brazilian Crusaders e-Sports",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125922/600px-Brazilian_Crusaders_logo.png",
+          "id": 125922,
+          "acronym": "BRC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "cloud9-pubg",
+          "name": "Cloud9",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125539/cloud9.png",
+          "id": 125539,
+          "acronym": "C9"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "crystal-luster",
+          "name": "Crystal Luster",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125917/Crystal_Luster.png",
+          "id": 125917,
+          "acronym": "CL"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "o1ne",
+          "name": "ENCE",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125721/600px-ENCE_eSports.png",
+          "id": 125721,
+          "acronym": "EZ4"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "incognito",
+          "name": "Incognito",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125923/600px-Incognito_Logo_V3_Black_Border.png",
+          "id": 125923,
+          "acronym": "INC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "mp5",
+          "name": "MP5",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125924/MP5_PUBG.png",
+          "id": 125924,
+          "acronym": "MP5"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ogn-entus-force",
+          "name": "OGN Entus Force",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125704/_.png",
+          "id": 125704,
+          "acronym": "ENF"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "oh-my-god",
+          "name": "Oh My God",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3196/Oh_My_God_logo.png",
+          "id": 3196,
+          "acronym": "OMG"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "op-gaming-rangers",
+          "name": "OP GAMING Rangers",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125706/_.png",
+          "id": 125706,
+          "acronym": "OPR"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "team-envy-pubg",
+          "name": "Team Envy",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125537/teamenvy-small.png",
+          "id": 125537,
+          "acronym": "NV"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "winstrike-team",
+          "name": "Winstrike Team",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125727/thumb_270_4807e6384b68fb8d25458e0c08f7db6d.png",
+          "id": 125727,
+          "acronym": "WIN"
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Round 1",
+    "modified_at": "2019-04-19T14:13:17Z",
+    "match_type": "best_of",
+    "live": {
+      "url": null,
+      "supported": false,
+      "opens_at": null
+    },
+    "league_id": 4223,
+    "league": {
+      "url": "https://www.faceitglobalsummit.com/",
+      "slug": "pubg-faceit-global-summit",
+      "name": "FACEIT Global Summit",
+      "modified_at": "2019-04-15T14:37:46Z",
+      "live_supported": false,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4223/FACEIT_Global_Summit_2019.png",
+      "id": 4223
+    },
+    "id": 543922,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 125537
+        },
+        "position": 1,
+        "match_id": 543922,
+        "length": null,
+        "id": 210,
+        "finished": true,
+        "begin_at": "2019-04-19T11:15:00Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T11:15:00Z"
+  },
+  {
+    "winner_id": 1671,
+    "winner": {
+      "slug": "vega-squadron-dota-2",
+      "name": "Vega Squadron",
+      "image_url": "https://cdn.pandascore.co/images/team/image/1671/Vega_Squadron.png",
+      "id": 1671,
+      "acronym": "Vega"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "tournament_id": 2307,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "dota-2-adrenaline-cyber-league-2019-closed-qualifier",
+      "serie_id": 1779,
+      "name": "Closed qualifier",
+      "modified_at": "2019-04-18T21:22:33Z",
+      "league_id": 4224,
+      "id": 2307,
+      "end_at": "2019-04-22T18:00:00Z",
+      "begin_at": "2019-04-17T22:00:00Z"
+    },
+    "status": "finished",
+    "slug": "winstrike-team-vs-vega-squadron-2019-04-19",
+    "serie_id": 1779,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "dota-2-adrenaline-cyber-league-2019",
+      "season": null,
+      "prizepool": null,
+      "name": null,
+      "modified_at": "2019-04-18T10:08:57Z",
+      "league_id": 4224,
+      "id": 1779,
+      "full_name": "2019",
+      "end_at": "2019-05-27T18:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-17T22:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 1671,
+        "score": 2
+      },
+      {
+        "team_id": 2576,
+        "score": 1
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "flytomoon",
+          "name": "Winstrike Team",
+          "image_url": "https://cdn.pandascore.co/images/team/image/2576/Winstrike.png",
+          "id": 2576,
+          "acronym": "WStrike"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "vega-squadron-dota-2",
+          "name": "Vega Squadron",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1671/Vega_Squadron.png",
+          "id": 1671,
+          "acronym": "Vega"
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "Group B: Upper Semifinal",
+    "modified_at": "2019-04-19T15:41:02Z",
+    "match_type": "best_of",
+    "live": {
+      "url": null,
+      "supported": false,
+      "opens_at": null
+    },
+    "league_id": 4224,
+    "league": {
+      "url": null,
+      "slug": "dota-2-adrenaline-cyber-league",
+      "name": "Adrenaline Cyber League",
+      "modified_at": "2019-04-18T10:17:32Z",
+      "live_supported": false,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4224/Adrenaline_Cyber_League.png",
+      "id": 4224
+    },
+    "id": 543905,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 2576
+        },
+        "position": 1,
+        "match_id": 543905,
+        "length": 1757,
+        "id": 651716,
+        "finished": true,
+        "begin_at": "2019-04-19T12:00:03Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1671
+        },
+        "position": 2,
+        "match_id": 543905,
+        "length": 2080,
+        "id": 651717,
+        "finished": true,
+        "begin_at": "2019-04-19T12:52:35Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1671
+        },
+        "position": 3,
+        "match_id": 543905,
+        "length": 2023,
+        "id": 651718,
+        "finished": true,
+        "begin_at": "2019-04-19T13:50:49Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T12:00:03Z"
+  },
+  {
+    "winner_id": 125537,
+    "winner": {
+      "slug": "team-envy-pubg",
+      "name": "Team Envy",
+      "image_url": "https://cdn.pandascore.co/images/team/image/125537/teamenvy-small.png",
+      "id": 125537,
+      "acronym": "NV"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "pubg",
+      "name": "PUBG",
+      "id": 20
+    },
+    "tournament_id": 2310,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019-elimination-stage",
+      "serie_id": 1777,
+      "name": "Elimination stage",
+      "modified_at": "2019-04-19T17:04:04Z",
+      "league_id": 4223,
+      "id": 2310,
+      "end_at": "2019-04-19T17:02:00Z",
+      "begin_at": "2019-04-19T11:15:00Z"
+    },
+    "status": "finished",
+    "slug": "2019-04-19-8c69dabc-c66b-4f0d-80ea-d90ea7a0ca04",
+    "serie_id": 1777,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019",
+      "season": null,
+      "prizepool": "400000 USD",
+      "name": null,
+      "modified_at": "2019-04-15T14:40:20Z",
+      "league_id": 4223,
+      "id": 1777,
+      "full_name": "2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2019-04-16T11:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 125537,
+        "score": 1
+      },
+      {
+        "team_id": 125924,
+        "score": 0
+      },
+      {
+        "team_id": 125923,
+        "score": 0
+      },
+      {
+        "team_id": 125922,
+        "score": 0
+      },
+      {
+        "team_id": 125921,
+        "score": 0
+      },
+      {
+        "team_id": 125920,
+        "score": 0
+      },
+      {
+        "team_id": 125918,
+        "score": 0
+      },
+      {
+        "team_id": 125917,
+        "score": 0
+      },
+      {
+        "team_id": 125916,
+        "score": 0
+      },
+      {
+        "team_id": 125727,
+        "score": 0
+      },
+      {
+        "team_id": 125721,
+        "score": 0
+      },
+      {
+        "team_id": 125706,
+        "score": 0
+      },
+      {
+        "team_id": 125704,
+        "score": 0
+      },
+      {
+        "team_id": 125539,
+        "score": 0
+      },
+      {
+        "team_id": 3196,
+        "score": 0
+      },
+      {
+        "team_id": 3191,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "17-gaming",
+          "name": "17 Gaming",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125916/17_Gaming.png",
+          "id": 125916,
+          "acronym": "17"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-one",
+          "name": "Aerowolf Team One",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125918/Aerowolf_fixed.png",
+          "id": 125918,
+          "acronym": "AW1"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-seven",
+          "name": "Aerowolf Team Seven",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125920/Aerowolf_fixed.png",
+          "id": 125920,
+          "acronym": "AW7"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ahq-e-sports-club-pubg",
+          "name": "ahq e-Sports Club",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3191/600px-Ahq_logo.png",
+          "id": 3191,
+          "acronym": "AHQ"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "blue-bees-esp",
+          "name": "BLUE BEES.ESP",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125921/600px-Blue_Bees_2019.png",
+          "id": 125921,
+          "acronym": "BB"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "cloud9-pubg",
+          "name": "Cloud9",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125539/cloud9.png",
+          "id": 125539,
+          "acronym": "C9"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "crystal-luster",
+          "name": "Crystal Luster",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125917/Crystal_Luster.png",
+          "id": 125917,
+          "acronym": "CL"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "o1ne",
+          "name": "ENCE",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125721/600px-ENCE_eSports.png",
+          "id": 125721,
+          "acronym": "EZ4"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "mp5",
+          "name": "MP5",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125924/MP5_PUBG.png",
+          "id": 125924,
+          "acronym": "MP5"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ogn-entus-force",
+          "name": "OGN Entus Force",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125704/_.png",
+          "id": 125704,
+          "acronym": "ENF"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "incognito",
+          "name": "Incognito",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125923/600px-Incognito_Logo_V3_Black_Border.png",
+          "id": 125923,
+          "acronym": "INC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "brazilian-crusaders-e-sports",
+          "name": "Brazilian Crusaders e-Sports",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125922/600px-Brazilian_Crusaders_logo.png",
+          "id": 125922,
+          "acronym": "BRC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "oh-my-god",
+          "name": "Oh My God",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3196/Oh_My_God_logo.png",
+          "id": 3196,
+          "acronym": "OMG"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "op-gaming-rangers",
+          "name": "OP GAMING Rangers",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125706/_.png",
+          "id": 125706,
+          "acronym": "OPR"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "team-envy-pubg",
+          "name": "Team Envy",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125537/teamenvy-small.png",
+          "id": 125537,
+          "acronym": "NV"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "winstrike-team",
+          "name": "Winstrike Team",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125727/thumb_270_4807e6384b68fb8d25458e0c08f7db6d.png",
+          "id": 125727,
+          "acronym": "WIN"
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Round 2",
+    "modified_at": "2019-04-19T14:13:58Z",
+    "match_type": "best_of",
+    "live": {
+      "url": null,
+      "supported": false,
+      "opens_at": null
+    },
+    "league_id": 4223,
+    "league": {
+      "url": "https://www.faceitglobalsummit.com/",
+      "slug": "pubg-faceit-global-summit",
+      "name": "FACEIT Global Summit",
+      "modified_at": "2019-04-15T14:37:46Z",
+      "live_supported": false,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4223/FACEIT_Global_Summit_2019.png",
+      "id": 4223
+    },
+    "id": 543923,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 125537
+        },
+        "position": 1,
+        "match_id": 543923,
+        "length": null,
+        "id": 211,
+        "finished": true,
+        "begin_at": "2019-04-19T12:15:00Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T12:15:00Z"
+  },
+  {
+    "winner_id": 3248,
+    "winner": {
+      "slug": "tyloo-cs-go",
+      "name": "TYLOO",
+      "image_url": "https://cdn.pandascore.co/images/team/image/3248/TYLOO.png",
+      "id": 3248,
+      "acronym": null
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "tournament_id": 2253,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-apac-9-2019-round-1-group-c",
+      "serie_id": 1767,
+      "name": "Round 1: group c",
+      "modified_at": "2019-04-06T17:15:17Z",
+      "league_id": 4158,
+      "id": 2253,
+      "end_at": null,
+      "begin_at": "2019-04-19T08:00:00Z"
+    },
+    "status": "finished",
+    "slug": "tyloo-vs-5power-2019-04-19",
+    "serie_id": 1767,
+    "serie": {
+      "year": 2019,
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-apac-9-2019",
+      "season": "9",
+      "prizepool": null,
+      "name": "Pro League APAC",
+      "modified_at": "2019-04-06T16:29:06Z",
+      "league_id": 4158,
+      "id": 1767,
+      "full_name": "Pro league apac season 9 2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2019-04-11T23:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 3248,
+        "score": 2
+      },
+      {
+        "team_id": 8186,
+        "score": 1
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "tyloo-cs-go",
+          "name": "TYLOO",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3248/TYLOO.png",
+          "id": 3248,
+          "acronym": null
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "5power",
+          "name": "5POWER",
+          "image_url": "https://cdn.pandascore.co/images/team/image/8186/5_POWER.png",
+          "id": 8186,
+          "acronym": null
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "TYLOO vs 5POWER",
+    "modified_at": "2019-04-19T16:30:20Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543433",
+      "supported": true,
+      "opens_at": "2019-04-19T11:20:48Z"
+    },
+    "league_id": 4158,
+    "league": {
+      "url": null,
+      "slug": "cs-go-esl",
+      "name": "ESL",
+      "modified_at": "2019-02-25T17:17:32Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4158/800px-Esl_logo.png",
+      "id": 4158
+    },
+    "id": 543433,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3248
+        },
+        "position": 1,
+        "match_id": 543433,
+        "length": null,
+        "id": 6325,
+        "finished": true,
+        "begin_at": null
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3248
+        },
+        "position": 2,
+        "match_id": 543433,
+        "length": null,
+        "id": 6326,
+        "finished": true,
+        "begin_at": "2019-04-19T12:20:48Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 8186
+        },
+        "position": 3,
+        "match_id": 543433,
+        "length": null,
+        "id": 6327,
+        "finished": true,
+        "begin_at": "2019-04-19T13:10:48Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T12:20:48Z"
+  },
+  {
+    "winner_id": 1655,
+    "winner": {
+      "slug": "tnc-pro-team",
+      "name": "TNC Predator",
+      "image_url": "https://cdn.pandascore.co/images/team/image/1655/Tncproteam.png",
+      "id": 1655,
+      "acronym": "TNC"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "tournament_id": 2287,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "esl-one-mumbai-2019-playoffs",
+      "serie_id": 1754,
+      "name": "Playoffs",
+      "modified_at": "2019-04-15T14:29:09Z",
+      "league_id": 4114,
+      "id": 2287,
+      "end_at": "2019-04-22T18:00:00Z",
+      "begin_at": "2019-04-15T22:00:00Z"
+    },
+    "status": "finished",
+    "slug": "2019-04-19-ca15b8b5-c9d7-4faf-9242-e84aea650cca",
+    "serie_id": 1754,
+    "serie": {
+      "year": 2019,
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "esl-one-mumbai-2019",
+      "season": null,
+      "prizepool": null,
+      "name": "Mumbai",
+      "modified_at": "2019-02-28T00:14:00Z",
+      "league_id": 4114,
+      "id": 1754,
+      "full_name": "Mumbai 2019",
+      "end_at": "2019-04-20T22:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-18T23:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 1655,
+        "score": 2
+      },
+      {
+        "team_id": 3370,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "team-team",
+          "name": "TEAM TEAM",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3370/Team_Team_logo.png",
+          "id": 3370,
+          "acronym": "TT"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "tnc-pro-team",
+          "name": "TNC Predator",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1655/Tncproteam.png",
+          "id": 1655,
+          "acronym": "TNC"
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "Lower Round 2",
+    "modified_at": "2019-04-19T15:24:45Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543698",
+      "supported": true,
+      "opens_at": "2019-04-19T12:07:35Z"
+    },
+    "league_id": 4114,
+    "league": {
+      "url": null,
+      "slug": "esl-one",
+      "name": "ESL One",
+      "modified_at": "2019-03-03T17:08:01Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4114/esl-one_logo.png",
+      "id": 4114
+    },
+    "id": 543698,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1655
+        },
+        "position": 1,
+        "match_id": 543698,
+        "length": 2104,
+        "id": 651269,
+        "finished": true,
+        "begin_at": "2019-04-19T13:07:35Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 1655
+        },
+        "position": 2,
+        "match_id": 543698,
+        "length": 2683,
+        "id": 651270,
+        "finished": true,
+        "begin_at": "2019-04-19T14:18:43Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T13:07:35Z"
+  },
+  {
+    "winner_id": 3191,
+    "winner": {
+      "slug": "ahq-e-sports-club-pubg",
+      "name": "ahq e-Sports Club",
+      "image_url": "https://cdn.pandascore.co/images/team/image/3191/600px-Ahq_logo.png",
+      "id": 3191,
+      "acronym": "AHQ"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "pubg",
+      "name": "PUBG",
+      "id": 20
+    },
+    "tournament_id": 2310,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019-elimination-stage",
+      "serie_id": 1777,
+      "name": "Elimination stage",
+      "modified_at": "2019-04-19T17:04:04Z",
+      "league_id": 4223,
+      "id": 2310,
+      "end_at": "2019-04-19T17:02:00Z",
+      "begin_at": "2019-04-19T11:15:00Z"
+    },
+    "status": "finished",
+    "slug": "2019-04-19-9e8e9d40-bbbc-4ec8-b2ad-659a4e3dd729",
+    "serie_id": 1777,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019",
+      "season": null,
+      "prizepool": "400000 USD",
+      "name": null,
+      "modified_at": "2019-04-15T14:40:20Z",
+      "league_id": 4223,
+      "id": 1777,
+      "full_name": "2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2019-04-16T11:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 3191,
+        "score": 1
+      },
+      {
+        "team_id": 125924,
+        "score": 0
+      },
+      {
+        "team_id": 125923,
+        "score": 0
+      },
+      {
+        "team_id": 125922,
+        "score": 0
+      },
+      {
+        "team_id": 125921,
+        "score": 0
+      },
+      {
+        "team_id": 125920,
+        "score": 0
+      },
+      {
+        "team_id": 125918,
+        "score": 0
+      },
+      {
+        "team_id": 125917,
+        "score": 0
+      },
+      {
+        "team_id": 125916,
+        "score": 0
+      },
+      {
+        "team_id": 125727,
+        "score": 0
+      },
+      {
+        "team_id": 125721,
+        "score": 0
+      },
+      {
+        "team_id": 125706,
+        "score": 0
+      },
+      {
+        "team_id": 125704,
+        "score": 0
+      },
+      {
+        "team_id": 125539,
+        "score": 0
+      },
+      {
+        "team_id": 125537,
+        "score": 0
+      },
+      {
+        "team_id": 3196,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "17-gaming",
+          "name": "17 Gaming",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125916/17_Gaming.png",
+          "id": 125916,
+          "acronym": "17"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-one",
+          "name": "Aerowolf Team One",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125918/Aerowolf_fixed.png",
+          "id": 125918,
+          "acronym": "AW1"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-seven",
+          "name": "Aerowolf Team Seven",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125920/Aerowolf_fixed.png",
+          "id": 125920,
+          "acronym": "AW7"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ahq-e-sports-club-pubg",
+          "name": "ahq e-Sports Club",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3191/600px-Ahq_logo.png",
+          "id": 3191,
+          "acronym": "AHQ"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "blue-bees-esp",
+          "name": "BLUE BEES.ESP",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125921/600px-Blue_Bees_2019.png",
+          "id": 125921,
+          "acronym": "BB"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "brazilian-crusaders-e-sports",
+          "name": "Brazilian Crusaders e-Sports",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125922/600px-Brazilian_Crusaders_logo.png",
+          "id": 125922,
+          "acronym": "BRC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "cloud9-pubg",
+          "name": "Cloud9",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125539/cloud9.png",
+          "id": 125539,
+          "acronym": "C9"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "crystal-luster",
+          "name": "Crystal Luster",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125917/Crystal_Luster.png",
+          "id": 125917,
+          "acronym": "CL"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "o1ne",
+          "name": "ENCE",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125721/600px-ENCE_eSports.png",
+          "id": 125721,
+          "acronym": "EZ4"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "incognito",
+          "name": "Incognito",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125923/600px-Incognito_Logo_V3_Black_Border.png",
+          "id": 125923,
+          "acronym": "INC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "mp5",
+          "name": "MP5",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125924/MP5_PUBG.png",
+          "id": 125924,
+          "acronym": "MP5"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ogn-entus-force",
+          "name": "OGN Entus Force",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125704/_.png",
+          "id": 125704,
+          "acronym": "ENF"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "oh-my-god",
+          "name": "Oh My God",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3196/Oh_My_God_logo.png",
+          "id": 3196,
+          "acronym": "OMG"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "op-gaming-rangers",
+          "name": "OP GAMING Rangers",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125706/_.png",
+          "id": 125706,
+          "acronym": "OPR"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "team-envy-pubg",
+          "name": "Team Envy",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125537/teamenvy-small.png",
+          "id": 125537,
+          "acronym": "NV"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "winstrike-team",
+          "name": "Winstrike Team",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125727/thumb_270_4807e6384b68fb8d25458e0c08f7db6d.png",
+          "id": 125727,
+          "acronym": "WIN"
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Round 3",
+    "modified_at": "2019-04-19T14:14:12Z",
+    "match_type": "best_of",
+    "live": {
+      "url": null,
+      "supported": false,
+      "opens_at": null
+    },
+    "league_id": 4223,
+    "league": {
+      "url": "https://www.faceitglobalsummit.com/",
+      "slug": "pubg-faceit-global-summit",
+      "name": "FACEIT Global Summit",
+      "modified_at": "2019-04-15T14:37:46Z",
+      "live_supported": false,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4223/FACEIT_Global_Summit_2019.png",
+      "id": 4223
+    },
+    "id": 543924,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3191
+        },
+        "position": 1,
+        "match_id": 543924,
+        "length": null,
+        "id": 212,
+        "finished": true,
+        "begin_at": "2019-04-19T13:15:00Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T13:15:00Z"
+  },
+  {
+    "winner_id": 3259,
+    "winner": {
+      "slug": "mvp-pk",
+      "name": "MVP PK",
+      "image_url": "https://cdn.pandascore.co/images/team/image/3259/MVP.png",
+      "id": 3259,
+      "acronym": null
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "tournament_id": 2253,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-apac-9-2019-round-1-group-c",
+      "serie_id": 1767,
+      "name": "Round 1: group c",
+      "modified_at": "2019-04-06T17:15:17Z",
+      "league_id": 4158,
+      "id": 2253,
+      "end_at": null,
+      "begin_at": "2019-04-19T08:00:00Z"
+    },
+    "status": "finished",
+    "slug": "vici-vs-mvp-pk-2019-04-19",
+    "serie_id": 1767,
+    "serie": {
+      "year": 2019,
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-apac-9-2019",
+      "season": "9",
+      "prizepool": null,
+      "name": "Pro League APAC",
+      "modified_at": "2019-04-06T16:29:06Z",
+      "league_id": 4158,
+      "id": 1767,
+      "full_name": "Pro league apac season 9 2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2019-04-11T23:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 3259,
+        "score": 2
+      },
+      {
+        "team_id": 3276,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "mvp-pk",
+          "name": "MVP PK",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3259/MVP.png",
+          "id": 3259,
+          "acronym": null
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "vici",
+          "name": "ViCi",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3276/VICI_GAMING.png",
+          "id": 3276,
+          "acronym": null
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "ViCi vs MVP PK",
+    "modified_at": "2019-04-19T16:26:25Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543434",
+      "supported": true,
+      "opens_at": "2019-04-19T13:00:00Z"
+    },
+    "league_id": 4158,
+    "league": {
+      "url": null,
+      "slug": "cs-go-esl",
+      "name": "ESL",
+      "modified_at": "2019-02-25T17:17:32Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4158/800px-Esl_logo.png",
+      "id": 4158
+    },
+    "id": 543434,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3259
+        },
+        "position": 1,
+        "match_id": 543434,
+        "length": null,
+        "id": 6328,
+        "finished": true,
+        "begin_at": null
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3259
+        },
+        "position": 2,
+        "match_id": 543434,
+        "length": null,
+        "id": 6329,
+        "finished": true,
+        "begin_at": "2019-04-19T15:08:44Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": null
+        },
+        "position": 3,
+        "match_id": 543434,
+        "length": null,
+        "id": 6330,
+        "finished": false,
+        "begin_at": "2019-04-19T16:25:56Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T14:00:00Z"
+  },
+  {
+    "winner_id": 125704,
+    "winner": {
+      "slug": "ogn-entus-force",
+      "name": "OGN Entus Force",
+      "image_url": "https://cdn.pandascore.co/images/team/image/125704/_.png",
+      "id": 125704,
+      "acronym": "ENF"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "pubg",
+      "name": "PUBG",
+      "id": 20
+    },
+    "tournament_id": 2310,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019-elimination-stage",
+      "serie_id": 1777,
+      "name": "Elimination stage",
+      "modified_at": "2019-04-19T17:04:04Z",
+      "league_id": 4223,
+      "id": 2310,
+      "end_at": "2019-04-19T17:02:00Z",
+      "begin_at": "2019-04-19T11:15:00Z"
+    },
+    "status": "finished",
+    "slug": "2019-04-19-434786e2-6b45-4b05-9eaf-9d10ad509b5b",
+    "serie_id": 1777,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019",
+      "season": null,
+      "prizepool": "400000 USD",
+      "name": null,
+      "modified_at": "2019-04-15T14:40:20Z",
+      "league_id": 4223,
+      "id": 1777,
+      "full_name": "2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2019-04-16T11:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 125704,
+        "score": 1
+      },
+      {
+        "team_id": 125924,
+        "score": 0
+      },
+      {
+        "team_id": 125923,
+        "score": 0
+      },
+      {
+        "team_id": 125922,
+        "score": 0
+      },
+      {
+        "team_id": 125921,
+        "score": 0
+      },
+      {
+        "team_id": 125920,
+        "score": 0
+      },
+      {
+        "team_id": 125918,
+        "score": 0
+      },
+      {
+        "team_id": 125917,
+        "score": 0
+      },
+      {
+        "team_id": 125916,
+        "score": 0
+      },
+      {
+        "team_id": 125727,
+        "score": 0
+      },
+      {
+        "team_id": 125721,
+        "score": 0
+      },
+      {
+        "team_id": 125706,
+        "score": 0
+      },
+      {
+        "team_id": 125539,
+        "score": 0
+      },
+      {
+        "team_id": 125537,
+        "score": 0
+      },
+      {
+        "team_id": 3196,
+        "score": 0
+      },
+      {
+        "team_id": 3191,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "17-gaming",
+          "name": "17 Gaming",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125916/17_Gaming.png",
+          "id": 125916,
+          "acronym": "17"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-one",
+          "name": "Aerowolf Team One",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125918/Aerowolf_fixed.png",
+          "id": 125918,
+          "acronym": "AW1"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-seven",
+          "name": "Aerowolf Team Seven",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125920/Aerowolf_fixed.png",
+          "id": 125920,
+          "acronym": "AW7"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ahq-e-sports-club-pubg",
+          "name": "ahq e-Sports Club",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3191/600px-Ahq_logo.png",
+          "id": 3191,
+          "acronym": "AHQ"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "blue-bees-esp",
+          "name": "BLUE BEES.ESP",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125921/600px-Blue_Bees_2019.png",
+          "id": 125921,
+          "acronym": "BB"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "brazilian-crusaders-e-sports",
+          "name": "Brazilian Crusaders e-Sports",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125922/600px-Brazilian_Crusaders_logo.png",
+          "id": 125922,
+          "acronym": "BRC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "cloud9-pubg",
+          "name": "Cloud9",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125539/cloud9.png",
+          "id": 125539,
+          "acronym": "C9"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "crystal-luster",
+          "name": "Crystal Luster",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125917/Crystal_Luster.png",
+          "id": 125917,
+          "acronym": "CL"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "o1ne",
+          "name": "ENCE",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125721/600px-ENCE_eSports.png",
+          "id": 125721,
+          "acronym": "EZ4"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "incognito",
+          "name": "Incognito",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125923/600px-Incognito_Logo_V3_Black_Border.png",
+          "id": 125923,
+          "acronym": "INC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "mp5",
+          "name": "MP5",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125924/MP5_PUBG.png",
+          "id": 125924,
+          "acronym": "MP5"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ogn-entus-force",
+          "name": "OGN Entus Force",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125704/_.png",
+          "id": 125704,
+          "acronym": "ENF"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "oh-my-god",
+          "name": "Oh My God",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3196/Oh_My_God_logo.png",
+          "id": 3196,
+          "acronym": "OMG"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "op-gaming-rangers",
+          "name": "OP GAMING Rangers",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125706/_.png",
+          "id": 125706,
+          "acronym": "OPR"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "team-envy-pubg",
+          "name": "Team Envy",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125537/teamenvy-small.png",
+          "id": 125537,
+          "acronym": "NV"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "winstrike-team",
+          "name": "Winstrike Team",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125727/thumb_270_4807e6384b68fb8d25458e0c08f7db6d.png",
+          "id": 125727,
+          "acronym": "WIN"
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Round 4",
+    "modified_at": "2019-04-19T15:14:31Z",
+    "match_type": "best_of",
+    "live": {
+      "url": null,
+      "supported": false,
+      "opens_at": null
+    },
+    "league_id": 4223,
+    "league": {
+      "url": "https://www.faceitglobalsummit.com/",
+      "slug": "pubg-faceit-global-summit",
+      "name": "FACEIT Global Summit",
+      "modified_at": "2019-04-15T14:37:46Z",
+      "live_supported": false,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4223/FACEIT_Global_Summit_2019.png",
+      "id": 4223
+    },
+    "id": 543921,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 125704
+        },
+        "position": 1,
+        "match_id": 543921,
+        "length": 1614,
+        "id": 209,
+        "finished": true,
+        "begin_at": "2019-04-19T14:47:36Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T14:47:36Z"
+  },
+  {
+    "winner_id": null,
+    "winner": null,
+    "videogame_version": null,
+    "videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "tournament_id": 2307,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "dota-2-adrenaline-cyber-league-2019-closed-qualifier",
+      "serie_id": 1779,
+      "name": "Closed qualifier",
+      "modified_at": "2019-04-18T21:22:33Z",
+      "league_id": 4224,
+      "id": 2307,
+      "end_at": "2019-04-22T18:00:00Z",
+      "begin_at": "2019-04-17T22:00:00Z"
+    },
+    "status": "not_started",
+    "slug": "the-final-tribe-vs-ranked-allstars-2019-04-19",
+    "serie_id": 1779,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "dota-2-adrenaline-cyber-league-2019",
+      "season": null,
+      "prizepool": null,
+      "name": null,
+      "modified_at": "2019-04-18T10:08:57Z",
+      "league_id": 4224,
+      "id": 1779,
+      "full_name": "2019",
+      "end_at": "2019-05-27T18:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-17T22:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 125959,
+        "score": 0
+      },
+      {
+        "team_id": 1814,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "the-final-tribe",
+          "name": "The Final Tribe",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1814/The_Final_Tribe.png",
+          "id": 1814,
+          "acronym": "TFT"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ranked-allstars",
+          "name": "Ranked allstars",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125959/Logo_dota_2.png",
+          "id": 125959,
+          "acronym": "MMRStars"
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "Group B: Upper Semifinal",
+    "modified_at": "2019-04-18T10:14:09Z",
+    "match_type": "best_of",
+    "live": {
+      "url": null,
+      "supported": false,
+      "opens_at": null
+    },
+    "league_id": 4224,
+    "league": {
+      "url": null,
+      "slug": "dota-2-adrenaline-cyber-league",
+      "name": "Adrenaline Cyber League",
+      "modified_at": "2019-04-18T10:17:32Z",
+      "live_supported": false,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4224/Adrenaline_Cyber_League.png",
+      "id": 4224
+    },
+    "id": 543906,
+    "games": [
+      {
+        "winner_type": null,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "position": 1,
+        "match_id": 543906,
+        "length": null,
+        "id": 651719,
+        "finished": false,
+        "begin_at": null
+      },
+      {
+        "winner_type": null,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "position": 2,
+        "match_id": 543906,
+        "length": null,
+        "id": 651720,
+        "finished": false,
+        "begin_at": null
+      },
+      {
+        "winner_type": null,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "position": 3,
+        "match_id": 543906,
+        "length": null,
+        "id": 651721,
+        "finished": false,
+        "begin_at": null
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T15:00:00Z"
+  },
+  {
+    "winner_id": 125916,
+    "winner": {
+      "slug": "17-gaming",
+      "name": "17 Gaming",
+      "image_url": "https://cdn.pandascore.co/images/team/image/125916/17_Gaming.png",
+      "id": 125916,
+      "acronym": "17"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "pubg",
+      "name": "PUBG",
+      "id": 20
+    },
+    "tournament_id": 2310,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019-elimination-stage",
+      "serie_id": 1777,
+      "name": "Elimination stage",
+      "modified_at": "2019-04-19T17:04:04Z",
+      "league_id": 4223,
+      "id": 2310,
+      "end_at": "2019-04-19T17:02:00Z",
+      "begin_at": "2019-04-19T11:15:00Z"
+    },
+    "status": "finished",
+    "slug": "2019-04-19-2307a8b5-4b31-4818-b052-d107a652056d",
+    "serie_id": 1777,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019",
+      "season": null,
+      "prizepool": "400000 USD",
+      "name": null,
+      "modified_at": "2019-04-15T14:40:20Z",
+      "league_id": 4223,
+      "id": 1777,
+      "full_name": "2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2019-04-16T11:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 125916,
+        "score": 1
+      },
+      {
+        "team_id": 125924,
+        "score": 0
+      },
+      {
+        "team_id": 125923,
+        "score": 0
+      },
+      {
+        "team_id": 125922,
+        "score": 0
+      },
+      {
+        "team_id": 125921,
+        "score": 0
+      },
+      {
+        "team_id": 125920,
+        "score": 0
+      },
+      {
+        "team_id": 125918,
+        "score": 0
+      },
+      {
+        "team_id": 125917,
+        "score": 0
+      },
+      {
+        "team_id": 125727,
+        "score": 0
+      },
+      {
+        "team_id": 125721,
+        "score": 0
+      },
+      {
+        "team_id": 125706,
+        "score": 0
+      },
+      {
+        "team_id": 125704,
+        "score": 0
+      },
+      {
+        "team_id": 125539,
+        "score": 0
+      },
+      {
+        "team_id": 125537,
+        "score": 0
+      },
+      {
+        "team_id": 3196,
+        "score": 0
+      },
+      {
+        "team_id": 3191,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "17-gaming",
+          "name": "17 Gaming",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125916/17_Gaming.png",
+          "id": 125916,
+          "acronym": "17"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-one",
+          "name": "Aerowolf Team One",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125918/Aerowolf_fixed.png",
+          "id": 125918,
+          "acronym": "AW1"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-seven",
+          "name": "Aerowolf Team Seven",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125920/Aerowolf_fixed.png",
+          "id": 125920,
+          "acronym": "AW7"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ahq-e-sports-club-pubg",
+          "name": "ahq e-Sports Club",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3191/600px-Ahq_logo.png",
+          "id": 3191,
+          "acronym": "AHQ"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "blue-bees-esp",
+          "name": "BLUE BEES.ESP",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125921/600px-Blue_Bees_2019.png",
+          "id": 125921,
+          "acronym": "BB"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "brazilian-crusaders-e-sports",
+          "name": "Brazilian Crusaders e-Sports",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125922/600px-Brazilian_Crusaders_logo.png",
+          "id": 125922,
+          "acronym": "BRC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "cloud9-pubg",
+          "name": "Cloud9",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125539/cloud9.png",
+          "id": 125539,
+          "acronym": "C9"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "crystal-luster",
+          "name": "Crystal Luster",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125917/Crystal_Luster.png",
+          "id": 125917,
+          "acronym": "CL"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "o1ne",
+          "name": "ENCE",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125721/600px-ENCE_eSports.png",
+          "id": 125721,
+          "acronym": "EZ4"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "incognito",
+          "name": "Incognito",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125923/600px-Incognito_Logo_V3_Black_Border.png",
+          "id": 125923,
+          "acronym": "INC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "mp5",
+          "name": "MP5",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125924/MP5_PUBG.png",
+          "id": 125924,
+          "acronym": "MP5"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ogn-entus-force",
+          "name": "OGN Entus Force",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125704/_.png",
+          "id": 125704,
+          "acronym": "ENF"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "oh-my-god",
+          "name": "Oh My God",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3196/Oh_My_God_logo.png",
+          "id": 3196,
+          "acronym": "OMG"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "op-gaming-rangers",
+          "name": "OP GAMING Rangers",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125706/_.png",
+          "id": 125706,
+          "acronym": "OPR"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "team-envy-pubg",
+          "name": "Team Envy",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125537/teamenvy-small.png",
+          "id": 125537,
+          "acronym": "NV"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "winstrike-team",
+          "name": "Winstrike Team",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125727/thumb_270_4807e6384b68fb8d25458e0c08f7db6d.png",
+          "id": 125727,
+          "acronym": "WIN"
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Round 5",
+    "modified_at": "2019-04-19T16:04:08Z",
+    "match_type": "best_of",
+    "live": {
+      "url": null,
+      "supported": false,
+      "opens_at": null
+    },
+    "league_id": 4223,
+    "league": {
+      "url": "https://www.faceitglobalsummit.com/",
+      "slug": "pubg-faceit-global-summit",
+      "name": "FACEIT Global Summit",
+      "modified_at": "2019-04-15T14:37:46Z",
+      "live_supported": false,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4223/FACEIT_Global_Summit_2019.png",
+      "id": 4223
+    },
+    "id": 543925,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 125916
+        },
+        "position": 1,
+        "match_id": 543925,
+        "length": 1584,
+        "id": 213,
+        "finished": true,
+        "begin_at": "2019-04-19T15:37:44Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T15:37:44Z"
+  },
+  {
+    "winner_id": 125906,
+    "winner": {
+      "slug": "wlgaming-esports",
+      "name": "Future Perfect WLGaming",
+      "image_url": "https://cdn.pandascore.co/images/team/image/125906/330px-We_Love_Gaminglogo_square.png",
+      "id": 125906,
+      "acronym": "FP.WLG"
+    },
+    "videogame_version": {
+      "name": "9.7.2",
+      "current": true
+    },
+    "videogame": {
+      "slug": "league-of-legends",
+      "name": "LoL",
+      "id": 1
+    },
+    "tournament_id": 2279,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "league-of-legends-european-masters-spring-2019-group-a",
+      "serie_id": 1774,
+      "name": "Group a",
+      "modified_at": "2019-04-19T11:14:30Z",
+      "league_id": 4139,
+      "id": 2279,
+      "end_at": "2019-04-18T19:00:00Z",
+      "begin_at": "2019-04-15T16:00:00Z"
+    },
+    "status": "finished",
+    "slug": "random-5-vs-future-perfect-wlgaming-2019-04-19",
+    "serie_id": 1774,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "league-of-legends-european-masters-spring-2019",
+      "season": "Spring",
+      "prizepool": null,
+      "name": null,
+      "modified_at": "2019-04-07T12:48:21Z",
+      "league_id": 4139,
+      "id": 1774,
+      "full_name": "Spring 2019",
+      "end_at": "2019-04-30T18:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-08T15:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 125906,
+        "score": 1
+      },
+      {
+        "team_id": 125907,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "random-5",
+          "name": "Random 5",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125907/330px-Random_5logo_square.png",
+          "id": 125907,
+          "acronym": "R5"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "wlgaming-esports",
+          "name": "Future Perfect WLGaming",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125906/330px-We_Love_Gaminglogo_square.png",
+          "id": 125906,
+          "acronym": "FP.WLG"
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Tiebreaker: R5 vs FP.WLG",
+    "modified_at": "2019-04-19T17:34:43Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543910",
+      "supported": true,
+      "opens_at": "2019-04-19T15:00:40Z"
+    },
+    "league_id": 4139,
+    "league": {
+      "url": null,
+      "slug": "league-of-legends-european-masters",
+      "name": "European Masters",
+      "modified_at": "2019-02-21T16:03:20Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4139/2593d-EU_Masters_Trans-iloveimg-resized.png",
+      "id": 4139
+    },
+    "id": 543910,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 125906
+        },
+        "position": 1,
+        "match_id": 543910,
+        "length": 1689,
+        "id": 205708,
+        "finished": true,
+        "begin_at": "2019-04-19T16:00:40Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T16:00:40Z"
+  },
+  {
+    "winner_id": null,
+    "winner": null,
+    "videogame_version": null,
+    "videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "tournament_id": 2241,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-europe-9-2019-group-c",
+      "serie_id": 1737,
+      "name": "Round 1: group c",
+      "modified_at": "2019-04-06T16:03:58Z",
+      "league_id": 4158,
+      "id": 2241,
+      "end_at": "2019-04-12T10:00:00Z",
+      "begin_at": "2019-04-19T16:20:00Z"
+    },
+    "status": "running",
+    "slug": "natus-vincere-vs-windigo-2019-04-19",
+    "serie_id": 1737,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-europe-9-2019",
+      "season": "9",
+      "prizepool": null,
+      "name": "Pro League Europe",
+      "modified_at": "2019-04-02T14:42:16Z",
+      "league_id": 4158,
+      "id": 1737,
+      "full_name": "Pro league europe season 9 2019",
+      "end_at": "2019-04-12T10:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-12T10:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 3390,
+        "score": 1
+      },
+      {
+        "team_id": 3216,
+        "score": 1
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "natus-vincere-cs-go",
+          "name": "Natus Vincere",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3216/NATUS_VINCERE.png",
+          "id": 3216,
+          "acronym": null
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "windigo",
+          "name": "Windigo",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3390/WINDIGO.png",
+          "id": 3390,
+          "acronym": null
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "Natus Vincere vs Windigo",
+    "modified_at": "2019-04-19T16:30:05Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543361",
+      "supported": true,
+      "opens_at": "2019-04-19T15:25:00Z"
+    },
+    "league_id": 4158,
+    "league": {
+      "url": null,
+      "slug": "cs-go-esl",
+      "name": "ESL",
+      "modified_at": "2019-02-25T17:17:32Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4158/800px-Esl_logo.png",
+      "id": 4158
+    },
+    "id": 543361,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3390
+        },
+        "position": 1,
+        "match_id": 543361,
+        "length": null,
+        "id": 6109,
+        "finished": true,
+        "begin_at": null
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3216
+        },
+        "position": 2,
+        "match_id": 543361,
+        "length": null,
+        "id": 6110,
+        "finished": true,
+        "begin_at": "2019-04-19T18:09:19Z"
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": null
+        },
+        "position": 3,
+        "match_id": 543361,
+        "length": null,
+        "id": 6111,
+        "finished": false,
+        "begin_at": "2019-04-19T19:22:08Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T16:25:00Z"
+  },
+  {
+    "winner_id": 125706,
+    "winner": {
+      "slug": "op-gaming-rangers",
+      "name": "OP GAMING Rangers",
+      "image_url": "https://cdn.pandascore.co/images/team/image/125706/_.png",
+      "id": 125706,
+      "acronym": "OPR"
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "pubg",
+      "name": "PUBG",
+      "id": 20
+    },
+    "tournament_id": 2310,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019-elimination-stage",
+      "serie_id": 1777,
+      "name": "Elimination stage",
+      "modified_at": "2019-04-19T17:04:04Z",
+      "league_id": 4223,
+      "id": 2310,
+      "end_at": "2019-04-19T17:02:00Z",
+      "begin_at": "2019-04-19T11:15:00Z"
+    },
+    "status": "finished",
+    "slug": "2019-04-19-b3d70e02-5347-4b47-8eb6-6af65fa42ce2",
+    "serie_id": 1777,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "pubg-faceit-global-summit-2019",
+      "season": null,
+      "prizepool": "400000 USD",
+      "name": null,
+      "modified_at": "2019-04-15T14:40:20Z",
+      "league_id": 4223,
+      "id": 1777,
+      "full_name": "2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2019-04-16T11:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 125706,
+        "score": 1
+      },
+      {
+        "team_id": 125924,
+        "score": 0
+      },
+      {
+        "team_id": 125923,
+        "score": 0
+      },
+      {
+        "team_id": 125922,
+        "score": 0
+      },
+      {
+        "team_id": 125921,
+        "score": 0
+      },
+      {
+        "team_id": 125920,
+        "score": 0
+      },
+      {
+        "team_id": 125918,
+        "score": 0
+      },
+      {
+        "team_id": 125917,
+        "score": 0
+      },
+      {
+        "team_id": 125916,
+        "score": 0
+      },
+      {
+        "team_id": 125727,
+        "score": 0
+      },
+      {
+        "team_id": 125721,
+        "score": 0
+      },
+      {
+        "team_id": 125704,
+        "score": 0
+      },
+      {
+        "team_id": 125539,
+        "score": 0
+      },
+      {
+        "team_id": 125537,
+        "score": 0
+      },
+      {
+        "team_id": 3196,
+        "score": 0
+      },
+      {
+        "team_id": 3191,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "17-gaming",
+          "name": "17 Gaming",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125916/17_Gaming.png",
+          "id": 125916,
+          "acronym": "17"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-one",
+          "name": "Aerowolf Team One",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125918/Aerowolf_fixed.png",
+          "id": 125918,
+          "acronym": "AW1"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "aerowolf-team-seven",
+          "name": "Aerowolf Team Seven",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125920/Aerowolf_fixed.png",
+          "id": 125920,
+          "acronym": "AW7"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ahq-e-sports-club-pubg",
+          "name": "ahq e-Sports Club",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3191/600px-Ahq_logo.png",
+          "id": 3191,
+          "acronym": "AHQ"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "blue-bees-esp",
+          "name": "BLUE BEES.ESP",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125921/600px-Blue_Bees_2019.png",
+          "id": 125921,
+          "acronym": "BB"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "brazilian-crusaders-e-sports",
+          "name": "Brazilian Crusaders e-Sports",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125922/600px-Brazilian_Crusaders_logo.png",
+          "id": 125922,
+          "acronym": "BRC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "cloud9-pubg",
+          "name": "Cloud9",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125539/cloud9.png",
+          "id": 125539,
+          "acronym": "C9"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "crystal-luster",
+          "name": "Crystal Luster",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125917/Crystal_Luster.png",
+          "id": 125917,
+          "acronym": "CL"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "o1ne",
+          "name": "ENCE",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125721/600px-ENCE_eSports.png",
+          "id": 125721,
+          "acronym": "EZ4"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "incognito",
+          "name": "Incognito",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125923/600px-Incognito_Logo_V3_Black_Border.png",
+          "id": 125923,
+          "acronym": "INC"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "mp5",
+          "name": "MP5",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125924/MP5_PUBG.png",
+          "id": 125924,
+          "acronym": "MP5"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ogn-entus-force",
+          "name": "OGN Entus Force",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125704/_.png",
+          "id": 125704,
+          "acronym": "ENF"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "oh-my-god",
+          "name": "Oh My God",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3196/Oh_My_God_logo.png",
+          "id": 3196,
+          "acronym": "OMG"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "op-gaming-rangers",
+          "name": "OP GAMING Rangers",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125706/_.png",
+          "id": 125706,
+          "acronym": "OPR"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "team-envy-pubg",
+          "name": "Team Envy",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125537/teamenvy-small.png",
+          "id": 125537,
+          "acronym": "NV"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "winstrike-team",
+          "name": "Winstrike Team",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125727/thumb_270_4807e6384b68fb8d25458e0c08f7db6d.png",
+          "id": 125727,
+          "acronym": "WIN"
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Round 6",
+    "modified_at": "2019-04-19T17:02:39Z",
+    "match_type": "best_of",
+    "live": {
+      "url": null,
+      "supported": false,
+      "opens_at": null
+    },
+    "league_id": 4223,
+    "league": {
+      "url": "https://www.faceitglobalsummit.com/",
+      "slug": "pubg-faceit-global-summit",
+      "name": "FACEIT Global Summit",
+      "modified_at": "2019-04-15T14:37:46Z",
+      "live_supported": false,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4223/FACEIT_Global_Summit_2019.png",
+      "id": 4223
+    },
+    "id": 543926,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 125706
+        },
+        "position": 1,
+        "match_id": 543926,
+        "length": 1786,
+        "id": 214,
+        "finished": true,
+        "begin_at": "2019-04-19T16:32:52Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T16:32:52Z"
+  },
+  {
+    "winner_id": 3274,
+    "winner": {
+      "slug": "avangar-cs-go",
+      "name": "AVANGAR",
+      "image_url": "https://cdn.pandascore.co/images/team/image/3274/AVANGAR.png",
+      "id": 3274,
+      "acronym": null
+    },
+    "videogame_version": null,
+    "videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "tournament_id": 2295,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-dreamhack-open-rio-2019-group-a",
+      "serie_id": 1690,
+      "name": "Group a",
+      "modified_at": "2019-04-15T17:53:34Z",
+      "league_id": 4152,
+      "id": 2295,
+      "end_at": "2019-04-20T22:00:00Z",
+      "begin_at": "2019-04-19T16:00:00Z"
+    },
+    "status": "finished",
+    "slug": "avangar-vs-eunited-2019-04-19",
+    "serie_id": 1690,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "cs-go-dreamhack-open-rio-2019",
+      "season": null,
+      "prizepool": null,
+      "name": "Open Rio",
+      "modified_at": "2019-01-01T11:00:48Z",
+      "league_id": 4152,
+      "id": 1690,
+      "full_name": "Open rio 2019",
+      "end_at": "2019-04-21T10:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-19T10:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 3274,
+        "score": 1
+      },
+      {
+        "team_id": 3388,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "avangar-cs-go",
+          "name": "AVANGAR",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3274/AVANGAR.png",
+          "id": 3274,
+          "acronym": null
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "eunited-cs-go",
+          "name": "eUnited",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3388/Eunited.png",
+          "id": 3388,
+          "acronym": null
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "AVANGAR vs eUnited",
+    "modified_at": "2019-04-19T19:23:52Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543782",
+      "supported": true,
+      "opens_at": "2019-04-19T16:11:16Z"
+    },
+    "league_id": 4152,
+    "league": {
+      "url": null,
+      "slug": "cs-go-dreamhack",
+      "name": "DreamHack",
+      "modified_at": "2019-03-05T11:05:46Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4152/600px-DreamHack_Black-RGB.png",
+      "id": 4152
+    },
+    "id": 543782,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 3274
+        },
+        "position": 1,
+        "match_id": 543782,
+        "length": null,
+        "id": 6418,
+        "finished": true,
+        "begin_at": "2019-04-19T17:11:16Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T17:11:16Z"
+  },
+  {
+    "winner_id": 125908,
+    "winner": {
+      "slug": "ventus-esports",
+      "name": "Ventus Esports",
+      "image_url": "https://cdn.pandascore.co/images/team/image/125908/330px-Ventus_Esportslogo_square.png",
+      "id": 125908,
+      "acronym": "VT"
+    },
+    "videogame_version": {
+      "name": "9.7.2",
+      "current": true
+    },
+    "videogame": {
+      "slug": "league-of-legends",
+      "name": "LoL",
+      "id": 1
+    },
+    "tournament_id": 2279,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "league-of-legends-european-masters-spring-2019-group-a",
+      "serie_id": 1774,
+      "name": "Group a",
+      "modified_at": "2019-04-19T11:14:30Z",
+      "league_id": 4139,
+      "id": 2279,
+      "end_at": "2019-04-18T19:00:00Z",
+      "begin_at": "2019-04-15T16:00:00Z"
+    },
+    "status": "finished",
+    "slug": "ventus-esports-vs-random-5-2019-04-19",
+    "serie_id": 1774,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "league-of-legends-european-masters-spring-2019",
+      "season": "Spring",
+      "prizepool": null,
+      "name": null,
+      "modified_at": "2019-04-07T12:48:21Z",
+      "league_id": 4139,
+      "id": 1774,
+      "full_name": "Spring 2019",
+      "end_at": "2019-04-30T18:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-08T15:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 125908,
+        "score": 1
+      },
+      {
+        "team_id": 125907,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ventus-esports",
+          "name": "Ventus Esports",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125908/330px-Ventus_Esportslogo_square.png",
+          "id": 125908,
+          "acronym": "VT"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "random-5",
+          "name": "Random 5",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125907/330px-Random_5logo_square.png",
+          "id": 125907,
+          "acronym": "R5"
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Tiebreaker: VT vs R5",
+    "modified_at": "2019-04-19T18:17:37Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543911",
+      "supported": true,
+      "opens_at": "2019-04-19T16:13:10Z"
+    },
+    "league_id": 4139,
+    "league": {
+      "url": null,
+      "slug": "league-of-legends-european-masters",
+      "name": "European Masters",
+      "modified_at": "2019-02-21T16:03:20Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4139/2593d-EU_Masters_Trans-iloveimg-resized.png",
+      "id": 4139
+    },
+    "id": 543911,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 125908
+        },
+        "position": 1,
+        "match_id": 543911,
+        "length": 1829,
+        "id": 205709,
+        "finished": true,
+        "begin_at": "2019-04-19T17:13:10Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T17:13:10Z"
+  },
+  {
+    "winner_id": 125908,
+    "winner": {
+      "slug": "ventus-esports",
+      "name": "Ventus Esports",
+      "image_url": "https://cdn.pandascore.co/images/team/image/125908/330px-Ventus_Esportslogo_square.png",
+      "id": 125908,
+      "acronym": "VT"
+    },
+    "videogame_version": {
+      "name": "9.7.2",
+      "current": true
+    },
+    "videogame": {
+      "slug": "league-of-legends",
+      "name": "LoL",
+      "id": 1
+    },
+    "tournament_id": 2279,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "league-of-legends-european-masters-spring-2019-group-a",
+      "serie_id": 1774,
+      "name": "Group a",
+      "modified_at": "2019-04-19T11:14:30Z",
+      "league_id": 4139,
+      "id": 2279,
+      "end_at": "2019-04-18T19:00:00Z",
+      "begin_at": "2019-04-15T16:00:00Z"
+    },
+    "status": "finished",
+    "slug": "future-perfect-wlgaming-vs-ventus-esports-2019-04-19",
+    "serie_id": 1774,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "league-of-legends-european-masters-spring-2019",
+      "season": "Spring",
+      "prizepool": null,
+      "name": null,
+      "modified_at": "2019-04-07T12:48:21Z",
+      "league_id": 4139,
+      "id": 1774,
+      "full_name": "Spring 2019",
+      "end_at": "2019-04-30T18:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-08T15:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 125908,
+        "score": 1
+      },
+      {
+        "team_id": 125906,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "wlgaming-esports",
+          "name": "Future Perfect WLGaming",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125906/330px-We_Love_Gaminglogo_square.png",
+          "id": 125906,
+          "acronym": "FP.WLG"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "ventus-esports",
+          "name": "Ventus Esports",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125908/330px-Ventus_Esportslogo_square.png",
+          "id": 125908,
+          "acronym": "VT"
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Tiebreaker: FP.WLG vs VT",
+    "modified_at": "2019-04-19T18:29:09Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543912",
+      "supported": true,
+      "opens_at": "2019-04-19T16:45:30Z"
+    },
+    "league_id": 4139,
+    "league": {
+      "url": null,
+      "slug": "league-of-legends-european-masters",
+      "name": "European Masters",
+      "modified_at": "2019-02-21T16:03:20Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4139/2593d-EU_Masters_Trans-iloveimg-resized.png",
+      "id": 4139
+    },
+    "id": 543912,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": 125908
+        },
+        "position": 1,
+        "match_id": 543912,
+        "length": 1413,
+        "id": 205710,
+        "finished": true,
+        "begin_at": "2019-04-19T17:45:30Z"
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T17:45:30Z"
+  },
+  {
+    "winner_id": null,
+    "winner": null,
+    "videogame_version": null,
+    "videogame": {
+      "slug": "dota-2",
+      "name": "Dota 2",
+      "id": 4
+    },
+    "tournament_id": 2307,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "dota-2-adrenaline-cyber-league-2019-closed-qualifier",
+      "serie_id": 1779,
+      "name": "Closed qualifier",
+      "modified_at": "2019-04-18T21:22:33Z",
+      "league_id": 4224,
+      "id": 2307,
+      "end_at": "2019-04-22T18:00:00Z",
+      "begin_at": "2019-04-17T22:00:00Z"
+    },
+    "status": "not_started",
+    "slug": "2019-04-19-cc8189fb-a016-4efd-86b5-c46a733f7b1f",
+    "serie_id": 1779,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "dota-2-adrenaline-cyber-league-2019",
+      "season": null,
+      "prizepool": null,
+      "name": null,
+      "modified_at": "2019-04-18T10:08:57Z",
+      "league_id": 4224,
+      "id": 1779,
+      "full_name": "2019",
+      "end_at": "2019-05-27T18:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-17T22:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 1671,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "vega-squadron-dota-2",
+          "name": "Vega Squadron",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1671/Vega_Squadron.png",
+          "id": 1671,
+          "acronym": "Vega"
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "Group B: Upper Final",
+    "modified_at": "2019-04-18T10:14:30Z",
+    "match_type": "best_of",
+    "live": {
+      "url": null,
+      "supported": false,
+      "opens_at": null
+    },
+    "league_id": 4224,
+    "league": {
+      "url": null,
+      "slug": "dota-2-adrenaline-cyber-league",
+      "name": "Adrenaline Cyber League",
+      "modified_at": "2019-04-18T10:17:32Z",
+      "live_supported": false,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4224/Adrenaline_Cyber_League.png",
+      "id": 4224
+    },
+    "id": 543907,
+    "games": [
+      {
+        "winner_type": null,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "position": 1,
+        "match_id": 543907,
+        "length": null,
+        "id": 651722,
+        "finished": false,
+        "begin_at": null
+      },
+      {
+        "winner_type": null,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "position": 2,
+        "match_id": 543907,
+        "length": null,
+        "id": 651723,
+        "finished": false,
+        "begin_at": null
+      },
+      {
+        "winner_type": null,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "position": 3,
+        "match_id": 543907,
+        "length": null,
+        "id": 651724,
+        "finished": false,
+        "begin_at": null
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T18:00:00Z"
+  },
+  {
+    "winner_id": null,
+    "winner": null,
+    "videogame_version": null,
+    "videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "tournament_id": 2296,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-dreamhack-open-rio-2019-group-b",
+      "serie_id": 1690,
+      "name": "Group b",
+      "modified_at": "2019-04-17T19:37:16Z",
+      "league_id": 4152,
+      "id": 2296,
+      "end_at": "2019-04-21T01:00:00Z",
+      "begin_at": "2019-04-19T17:30:00Z"
+    },
+    "status": "running",
+    "slug": "valiance-vs-w7m-2019-04-19",
+    "serie_id": 1690,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "cs-go-dreamhack-open-rio-2019",
+      "season": null,
+      "prizepool": null,
+      "name": "Open Rio",
+      "modified_at": "2019-01-01T11:00:48Z",
+      "league_id": 4152,
+      "id": 1690,
+      "full_name": "Open rio 2019",
+      "end_at": "2019-04-21T10:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-19T10:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 125929,
+        "score": 0
+      },
+      {
+        "team_id": 3312,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "valiance",
+          "name": "Valiance",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3312/VALIANCE.png",
+          "id": 3312,
+          "acronym": null
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "w7m",
+          "name": "W7M",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125929/8574.png",
+          "id": 125929,
+          "acronym": "W7M"
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Valiance vs W7M",
+    "modified_at": "2019-04-19T20:00:04Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543787",
+      "supported": true,
+      "opens_at": "2019-04-19T19:00:00Z"
+    },
+    "league_id": 4152,
+    "league": {
+      "url": null,
+      "slug": "cs-go-dreamhack",
+      "name": "DreamHack",
+      "modified_at": "2019-03-05T11:05:46Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4152/600px-DreamHack_Black-RGB.png",
+      "id": 4152
+    },
+    "id": 543787,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": null
+        },
+        "position": 1,
+        "match_id": 543787,
+        "length": null,
+        "id": 6427,
+        "finished": false,
+        "begin_at": null
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T20:00:00Z"
+  },
+  {
+    "winner_id": null,
+    "winner": null,
+    "videogame_version": null,
+    "videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "tournament_id": 2296,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-dreamhack-open-rio-2019-group-b",
+      "serie_id": 1690,
+      "name": "Group b",
+      "modified_at": "2019-04-17T19:37:16Z",
+      "league_id": 4152,
+      "id": 2296,
+      "end_at": "2019-04-21T01:00:00Z",
+      "begin_at": "2019-04-19T17:30:00Z"
+    },
+    "status": "not_started",
+    "slug": "sharks-vs-redemption-poa-2019-04-12",
+    "serie_id": 1690,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "cs-go-dreamhack-open-rio-2019",
+      "season": null,
+      "prizepool": null,
+      "name": "Open Rio",
+      "modified_at": "2019-01-01T11:00:48Z",
+      "league_id": 4152,
+      "id": 1690,
+      "full_name": "Open rio 2019",
+      "end_at": "2019-04-21T10:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-19T10:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 125955,
+        "score": 0
+      },
+      {
+        "team_id": 3260,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "sharks",
+          "name": "Sharks",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3260/SHARKS.png",
+          "id": 3260,
+          "acronym": null
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "redemption-poa",
+          "name": "Redemption POA",
+          "image_url": "https://cdn.pandascore.co/images/team/image/125955/9902.png",
+          "id": 125955,
+          "acronym": null
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Sharks vs Redemption POA",
+    "modified_at": "2019-04-17T20:31:56Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543871",
+      "supported": true,
+      "opens_at": "2019-04-19T19:30:00Z"
+    },
+    "league_id": 4152,
+    "league": {
+      "url": null,
+      "slug": "cs-go-dreamhack",
+      "name": "DreamHack",
+      "modified_at": "2019-03-05T11:05:46Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4152/600px-DreamHack_Black-RGB.png",
+      "id": 4152
+    },
+    "id": 543871,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": null
+        },
+        "position": 1,
+        "match_id": 543871,
+        "length": null,
+        "id": 6442,
+        "finished": false,
+        "begin_at": null
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T20:30:00Z"
+  },
+  {
+    "winner_id": null,
+    "winner": null,
+    "videogame_version": null,
+    "videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "tournament_id": 2241,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-europe-9-2019-group-c",
+      "serie_id": 1737,
+      "name": "Round 1: group c",
+      "modified_at": "2019-04-06T16:03:58Z",
+      "league_id": 4158,
+      "id": 2241,
+      "end_at": "2019-04-12T10:00:00Z",
+      "begin_at": "2019-04-19T16:20:00Z"
+    },
+    "status": "not_started",
+    "slug": "fnatic-vs-g2-2019-04-19",
+    "serie_id": 1737,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "cs-go-esl-pro-league-europe-9-2019",
+      "season": "9",
+      "prizepool": null,
+      "name": "Pro League Europe",
+      "modified_at": "2019-04-02T14:42:16Z",
+      "league_id": 4158,
+      "id": 1737,
+      "full_name": "Pro league europe season 9 2019",
+      "end_at": "2019-04-12T10:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-12T10:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 3217,
+        "score": 0
+      },
+      {
+        "team_id": 3210,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "fnatic-cs-go",
+          "name": "fnatic",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3217/FNATIC.png",
+          "id": 3217,
+          "acronym": null
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "g2",
+          "name": "G2",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3210/G2_ESPORT.png",
+          "id": 3210,
+          "acronym": null
+        }
+      }
+    ],
+    "number_of_games": 3,
+    "name": "fnatic vs G2",
+    "modified_at": "2019-04-19T19:30:19Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543362",
+      "supported": true,
+      "opens_at": "2019-04-19T19:30:00Z"
+    },
+    "league_id": 4158,
+    "league": {
+      "url": null,
+      "slug": "cs-go-esl",
+      "name": "ESL",
+      "modified_at": "2019-02-25T17:17:32Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4158/800px-Esl_logo.png",
+      "id": 4158
+    },
+    "id": 543362,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": null
+        },
+        "position": 1,
+        "match_id": 543362,
+        "length": null,
+        "id": 6112,
+        "finished": false,
+        "begin_at": null
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": null
+        },
+        "position": 2,
+        "match_id": 543362,
+        "length": null,
+        "id": 6113,
+        "finished": false,
+        "begin_at": null
+      },
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": null
+        },
+        "position": 3,
+        "match_id": 543362,
+        "length": null,
+        "id": 6114,
+        "finished": false,
+        "begin_at": null
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T20:30:00Z"
+  },
+  {
+    "winner_id": null,
+    "winner": null,
+    "videogame_version": null,
+    "videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "tournament_id": 2295,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-dreamhack-open-rio-2019-group-a",
+      "serie_id": 1690,
+      "name": "Group a",
+      "modified_at": "2019-04-15T17:53:34Z",
+      "league_id": 4152,
+      "id": 2295,
+      "end_at": "2019-04-20T22:00:00Z",
+      "begin_at": "2019-04-19T16:00:00Z"
+    },
+    "status": "not_started",
+    "slug": "furia-vs-intz-2019-04-19",
+    "serie_id": 1690,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "cs-go-dreamhack-open-rio-2019",
+      "season": null,
+      "prizepool": null,
+      "name": "Open Rio",
+      "modified_at": "2019-01-01T11:00:48Z",
+      "league_id": 4152,
+      "id": 1690,
+      "full_name": "Open rio 2019",
+      "end_at": "2019-04-21T10:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-19T10:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 124530,
+        "score": 0
+      },
+      {
+        "team_id": 3391,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "furia",
+          "name": "FURIA",
+          "image_url": "https://cdn.pandascore.co/images/team/image/124530/8297.png",
+          "id": 124530,
+          "acronym": "FURIA"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "intz-cs-go",
+          "name": "INTZ",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3391/INTZ.png",
+          "id": 3391,
+          "acronym": null
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "FURIA vs INTZ",
+    "modified_at": "2019-04-19T20:00:05Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543783",
+      "supported": true,
+      "opens_at": "2019-04-19T19:55:00Z"
+    },
+    "league_id": 4152,
+    "league": {
+      "url": null,
+      "slug": "cs-go-dreamhack",
+      "name": "DreamHack",
+      "modified_at": "2019-03-05T11:05:46Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4152/600px-DreamHack_Black-RGB.png",
+      "id": 4152
+    },
+    "id": 543783,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": null
+        },
+        "position": 1,
+        "match_id": 543783,
+        "length": null,
+        "id": 6419,
+        "finished": false,
+        "begin_at": null
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T20:55:00Z"
+  },
+  {
+    "winner_id": null,
+    "winner": null,
+    "videogame_version": null,
+    "videogame": {
+      "slug": "cs-go",
+      "name": "CS:GO",
+      "id": 3
+    },
+    "tournament_id": 2295,
+    "tournament": {
+      "winner_type": "Team",
+      "winner_id": null,
+      "slug": "cs-go-dreamhack-open-rio-2019-group-a",
+      "serie_id": 1690,
+      "name": "Group a",
+      "modified_at": "2019-04-15T17:53:34Z",
+      "league_id": 4152,
+      "id": 2295,
+      "end_at": "2019-04-20T22:00:00Z",
+      "begin_at": "2019-04-19T16:00:00Z"
+    },
+    "status": "not_started",
+    "slug": "avangar-2019-04-20",
+    "serie_id": 1690,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "cs-go-dreamhack-open-rio-2019",
+      "season": null,
+      "prizepool": null,
+      "name": "Open Rio",
+      "modified_at": "2019-01-01T11:00:48Z",
+      "league_id": 4152,
+      "id": 1690,
+      "full_name": "Open rio 2019",
+      "end_at": "2019-04-21T10:00:00Z",
+      "description": null,
+      "begin_at": "2019-04-19T10:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 3274,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "avangar-cs-go",
+          "name": "AVANGAR",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3274/AVANGAR.png",
+          "id": 3274,
+          "acronym": null
+        }
+      }
+    ],
+    "number_of_games": 1,
+    "name": "Group A winners' match: AVANGAR vs TBD",
+    "modified_at": "2019-04-19T19:23:20Z",
+    "match_type": "best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/543784",
+      "supported": true,
+      "opens_at": "2019-04-19T22:00:00Z"
+    },
+    "league_id": 4152,
+    "league": {
+      "url": null,
+      "slug": "cs-go-dreamhack",
+      "name": "DreamHack",
+      "modified_at": "2019-03-05T11:05:46Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4152/600px-DreamHack_Black-RGB.png",
+      "id": 4152
+    },
+    "id": 543784,
+    "games": [
+      {
+        "winner_type": "Team",
+        "winner": {
+          "type": "Team",
+          "id": null
+        },
+        "position": 1,
+        "match_id": 543784,
+        "length": null,
+        "id": 6420,
+        "finished": false,
+        "begin_at": null
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T23:00:00Z"
+  },
+  {
+    "winner_id": null,
+    "winner": null,
+    "videogame_version": null,
+    "videogame": {
+      "slug": "ow",
+      "name": "Overwatch",
+      "id": 14
+    },
+    "tournament_id": 1998,
+    "tournament": {
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "overwatch-league-2019-stage-ii",
+      "serie_id": 1670,
+      "name": "Stage 2",
+      "modified_at": "2019-04-14T02:08:17Z",
+      "league_id": 4135,
+      "id": 1998,
+      "end_at": "2019-05-06T01:00:00Z",
+      "begin_at": "2019-04-04T23:00:00Z"
+    },
+    "status": "not_started",
+    "slug": "atlanta-reign-vs-new-york-excelsior-2019-04-20",
+    "serie_id": 1670,
+    "serie": {
+      "year": 2019,
+      "winner_type": null,
+      "winner_id": null,
+      "slug": "overwatch-league-2019",
+      "season": "2",
+      "prizepool": null,
+      "name": "",
+      "modified_at": "2019-02-15T13:49:40Z",
+      "league_id": 4135,
+      "id": 1670,
+      "full_name": "Season 2 2019",
+      "end_at": null,
+      "description": null,
+      "begin_at": "2017-12-07T00:00:00Z"
+    },
+    "results": [
+      {
+        "team_id": 3432,
+        "score": 0
+      },
+      {
+        "team_id": 1548,
+        "score": 0
+      }
+    ],
+    "opponents": [
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "atlanta-reign",
+          "name": "Atlanta Reign",
+          "image_url": "https://cdn.pandascore.co/images/team/image/3432/609VVM89F1BY1542673347592.svg",
+          "id": 3432,
+          "acronym": "ATL"
+        }
+      },
+      {
+        "type": "Team",
+        "opponent": {
+          "slug": "new-york-excelsior",
+          "name": "New York Excelsior",
+          "image_url": "https://cdn.pandascore.co/images/team/image/1548/3PBR8VEYM8SH1517250447953.svg",
+          "id": 1548,
+          "acronym": "NYE"
+        }
+      }
+    ],
+    "number_of_games": 5,
+    "name": "NYE vs ATL",
+    "modified_at": "2019-02-15T12:19:09Z",
+    "match_type": "ow_best_of",
+    "live": {
+      "url": "wss://live.pandascore.co/matches/384171",
+      "supported": true,
+      "opens_at": "2019-04-19T22:00:00Z"
+    },
+    "league_id": 4135,
+    "league": {
+      "url": "https://overwatchleague.com/en-us/",
+      "slug": "overwatch-league",
+      "name": "Overwatch League",
+      "modified_at": "2019-03-05T16:03:09Z",
+      "live_supported": true,
+      "image_url": "https://cdn.pandascore.co/images/league/image/4135/esports-overwatch-36d8f7f486d363c1.png",
+      "id": 4135
+    },
+    "id": 384171,
+    "games": [
+      {
+        "winner_type": null,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "position": 1,
+        "match_id": 384171,
+        "length": null,
+        "id": 3869,
+        "finished": false,
+        "begin_at": "2019-04-19T23:00:00Z"
+      },
+      {
+        "winner_type": null,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "position": 2,
+        "match_id": 384171,
+        "length": null,
+        "id": 3870,
+        "finished": false,
+        "begin_at": null
+      },
+      {
+        "winner_type": null,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "position": 3,
+        "match_id": 384171,
+        "length": null,
+        "id": 3871,
+        "finished": false,
+        "begin_at": null
+      },
+      {
+        "winner_type": null,
+        "winner": {
+          "type": null,
+          "id": null
+        },
+        "position": 4,
+        "match_id": 384171,
+        "length": null,
+        "id": 3872,
+        "finished": false,
+        "begin_at": null
+      }
+    ],
+    "draw": false,
+    "begin_at": "2019-04-19T23:00:00Z"
+  }
+]
+}
